@@ -746,3 +746,7 @@ $$
 * [SPOJ - MOMOS - FEASTOFPIGS [difficulty: easy]](https://www.spoj.com/problems/MOMOS/)
 * [Atcoder - Grid 2 [difficulty: easy]](https://atcoder.jp/contests/dp/tasks/dp_y/)
 * [Codeforces - Count GCD](https://codeforces.com/contest/1750/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [INCLUSION-EXCLUSION PRINCIPLE - DISCRETE MATHEMATICS — TrevTutor](https://www.youtube.com/watch?v=GS7dIWA6Hpo) (18 хв, англійською)

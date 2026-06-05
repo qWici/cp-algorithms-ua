@@ -246,3 +246,7 @@ $$
 * [UVA - 10104 - Euclid Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1045)
 * [GYM - (J) Once Upon A Time](http://codeforces.com/gym/100963)
 * [UVA - 12775 - Gift Dilemma](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4628)
+
+## Відеоматеріали \{#video}
+
+- [The Extended Euclidean algorithm — GVSUmath](https://www.youtube.com/watch?v=hB34-GSDT3k) (12 хв, англійською)

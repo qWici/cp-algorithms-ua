@@ -1384,3 +1384,7 @@ $$
 - [CodeChef - Expected Number of Customers](https://www.codechef.com/COOK112A/problems/MMNN01)
 - [CodeChef - Power Sum](https://www.codechef.com/SEPT19A/problems/PSUM)
 - [Codeforces - Centroid Probabilities](https://codeforces.com/problemset/problem/1667/E)
+
+## Відеоматеріали \{#video}
+
+- [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? — Reducible](https://www.youtube.com/watch?v=h7apO7q16V0) (28 хв, англійською)

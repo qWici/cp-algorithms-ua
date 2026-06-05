@@ -482,3 +482,7 @@ func exampleUsage() {
  * [Codeforces: +-1](https://codeforces.com/contest/1971/problem/H)
  * [Gym: (C) Colorful Village](https://codeforces.com/gym/104772/problem/C)
  * [POI: Renovation](https://szkopul.edu.pl/problemset/problem/xNjwUvwdHQoQTFBrmyG8vD1O/site/?key=statement)
+
+## Відеоматеріали \{#video}
+
+- [How to solve the 2-SAT problem in POLYNOMIAL TIME? — Inside code](https://www.youtube.com/watch?v=Ku-jJ0G4tIc) (16 хв, англійською)

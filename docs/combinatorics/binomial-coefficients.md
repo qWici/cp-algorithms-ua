@@ -442,3 +442,7 @@ $$
 * [Blog fishi.devtail.io](https://fishi.devtail.io/weblog/2015/06/25/computing-large-binomial-coefficients-modulo-prime-non-prime/)
 * [Question on Mathematics StackExchange](https://math.stackexchange.com/questions/95491/n-choose-k-bmod-m-using-chinese-remainder-theorem)
 * [Question on CodeChef Discuss](https://discuss.codechef.com/questions/98129/your-approach-to-solve-sandwich)
+
+## Відеоматеріали \{#video}
+
+- [How To Evaluate Binomial Coefficients — The Organic Chemistry Tutor](https://www.youtube.com/watch?v=EKN51vLKves) (9 хв, англійською)

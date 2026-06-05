@@ -295,3 +295,7 @@ func dfs(v int) {
 * [Codeforces - Ant on the Tree](http://codeforces.com/contest/29/problem/D)
 * [SPOJ - Cactus](http://www.spoj.com/problems/CAC/)
 * [SPOJ - Mixing Chemicals](http://www.spoj.com/problems/AMR10J/)
+
+## Відеоматеріали \{#video}
+
+- [Depth First Search (DFS) Explained: Algorithm, Examples, and Code — Reducible](https://www.youtube.com/watch?v=PMMc4VsIacU) (21 хв, англійською)

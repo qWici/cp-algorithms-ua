@@ -436,3 +436,7 @@ func dijkstra(s int) (d []int, p []int) {
 
 Оскільки видаляти ми можемо лише зі `set`, ця оптимізація застосовна лише до методу зі `set` і не працює з реалізацією на `priority_queue`.
 На практиці це суттєво підвищує швидкодію, особливо коли для зберігання відстаней використовуються більші типи даних, як-от `long long` чи `double`.
+
+## Відеоматеріали \{#video}
+
+- [Implementing Dijkstra's Algorithm with a Priority Queue — Mary Elaine Califf](https://www.youtube.com/watch?v=CerlT7tTZfY) (11 хв, англійською)

@@ -116,3 +116,7 @@ func counterClockwise(p1, p2, p3 Point2D) bool {
 
 ## Задачі для практики \{#practice-problems}
 * [Codechef - Chef and Polygons](https://www.codechef.com/problems/CHEFPOLY)
+
+## Відеоматеріали \{#video}
+
+- [Cross products | Essence of linear algebra — 3Blue1Brown](https://youtu.be/eu6i7WJeinw) (9 хв, англійською)

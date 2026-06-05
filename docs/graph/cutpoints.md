@@ -230,3 +230,7 @@ func findCutpoints() {
 - [UVA #315 "Network"](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=251) [difficulty: low]
 - [SPOJ - Submerging Islands](http://www.spoj.com/problems/SUBMERGE/)
 - [Codeforces - Cutting Figure](https://codeforces.com/problemset/problem/193/A)
+
+## Відеоматеріали \{#video}
+
+- [5.2 Articulation Point and Biconnected Components — Abdul Bari](https://www.youtube.com/watch?v=jFZsDDB0-vo) (9 хв, англійською)

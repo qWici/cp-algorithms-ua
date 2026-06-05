@@ -513,3 +513,7 @@ func solve(a []Seg) (int, int) {
 
 ## Задачі \{#problems}
  * [TIMUS 1469 No Smoking!](https://acm.timus.ru/problem.aspx?space=1&num=1469)
+
+## Відеоматеріали \{#video}
+
+- [Sweep-Line Algorithm for Line Segment Intersection (2/5) — Philipp Kindermann](https://www.youtube.com/watch?v=qkhUNzCGDt0) (9 хв, англійською)

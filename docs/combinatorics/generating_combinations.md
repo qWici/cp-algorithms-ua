@@ -365,3 +365,7 @@ func allCombinations(n, k int) {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [Combinations - Leetcode 77 - Python — NeetCode](https://www.youtube.com/watch?v=q0s6m7AiM7o) (10 хв, англійською)

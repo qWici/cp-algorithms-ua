@@ -284,3 +284,7 @@ func (bf *BridgeFinder) FindBridges() [][2]int {
 * [Codeforces - Break Up](http://codeforces.com/contest/700/problem/C)
 * [Codeforces - Tourist Reform](http://codeforces.com/contest/732/problem/F)
 * [Codeforces - Non-academic problem](https://codeforces.com/contest/1986/problem/F)
+
+## Відеоматеріали \{#video}
+
+- [G-55. Bridges in Graph - Using Tarjan's Algorithm — take U forward](https://www.youtube.com/watch?v=qrAub5z8FeA) (23 хв, англійською)

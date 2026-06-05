@@ -399,3 +399,7 @@ minimum := min(st[i][L], st[i][R-(1<<i)+1])
 * [Codeforces - Longest Regular Bracket Sequence](http://codeforces.com/contest/5/problem/C)
 * [CSES - Static Range Minimum Queries](https://cses.fi/problemset/task/1647)
 * [Codeforces - Array Stabilization (GCD version)](http://codeforces.com/problemset/problem/1547/F)
+
+## Відеоматеріали \{#video}
+
+- [Sparse Table & RMQ (Range Minimum Query) — Errichto Algorithms](https://www.youtube.com/watch?v=0jWeUdxrGm4) (19 хв, англійською)

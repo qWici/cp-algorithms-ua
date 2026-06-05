@@ -318,3 +318,7 @@ for i := 0; i < n; i++ {
 - [UVA: Wormholes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)
 - [SPOJ: Alice in Amsterdam, I mean Wonderland](http://www.spoj.com/problems/UCV2013B/)
 - [SPOJ: Johnsons Algorithm](http://www.spoj.com/problems/JHNSN/)
+
+## Відеоматеріали \{#video}
+
+- [Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=lyw4FaxrwHg) (15 хв, англійською)

@@ -564,3 +564,7 @@ $$
 * [Sliding Window Minimum](https://cses.fi/problemset/task/3221)
 * [Binary Land](https://www.codechef.com/MAY20A/problems/BINLAND)
 
+
+## Відеоматеріали \{#video}
+
+- [Sliding Window Maximum - Monotonic Queue - Leetcode 239 — NeetCode](https://www.youtube.com/watch?v=DfljaUwZsOk) (16 хв, англійською)

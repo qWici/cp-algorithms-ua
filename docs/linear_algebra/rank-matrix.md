@@ -166,3 +166,7 @@ func computeRank(input [][]float64) int {
 </CodeTabs>
 ## Задачі \{#problems}
  * [TIMUS1041 Nikifor](http://acm.timus.ru/problem.aspx?space=1&num=1041)
+
+## Відеоматеріали \{#video}
+
+- [The rank of a matrix — Prime Newtons](https://www.youtube.com/watch?v=Sc7OY62lQ9U) (17 хв, англійською)

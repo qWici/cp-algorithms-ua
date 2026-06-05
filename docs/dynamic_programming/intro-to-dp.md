@@ -455,3 +455,7 @@ func f(n int) int {
 ## Контести з ДП \{#dp-contests}
 * [Atcoder - Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
 * [CSES - Dynamic Programming](https://cses.fi/problemset/list/)
+
+## Відеоматеріали \{#video}
+
+- [5 Simple Steps for Solving Dynamic Programming Problems — Reducible](https://www.youtube.com/watch?v=aPQY__2H3tE) (21 хв, англійською)

@@ -151,3 +151,7 @@ func determinant(a [][]float64) float64 {
 
 ## Задачі для практики \{#practice-problems}
 * [Codeforces - Wizards and Bets](http://codeforces.com/contest/167/problem/E)
+
+## Відеоматеріали \{#video}
+
+- [Find Determinants with Row Reduction | Linear Algebra — Wrath of Math](https://www.youtube.com/watch?v=Q8BCPYYw4qk) (7 хв, англійською)

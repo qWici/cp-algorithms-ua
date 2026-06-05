@@ -122,3 +122,7 @@ func simpsonIntegration(a, b float64) float64 {
 ## Задачі для практики \{#practice-problems}
 
 * [Latin American Regionals 2012 - Environment Protection](https://matcomgrader.com/problem/9335/environment-protection/)
+
+## Відеоматеріали \{#video}
+
+- [Explanation of Simpson's rule | MIT 18.01SC Single Variable Calculus — MIT OpenCourseWare](https://www.youtube.com/watch?v=uc4xJsi99bk) (15 хв, англійською)

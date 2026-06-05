@@ -595,3 +595,7 @@ func convexHull(a *[]pt, includeCollinear bool) {
 * [Latin American Regionals 2006 - Onion Layers](https://matcomgrader.com/problem/9413/onion-layers/)
 * [Timus 1185: Wall](http://acm.timus.ru/problem.aspx?space=1&num=1185)
 * [Usaco 2014 January Contest, Gold - Cow Curling](http://usaco.org/index.php?page=viewproblem2&cpid=382)
+
+## Відеоматеріали \{#video}
+
+- [Convex Hull Algorithm - Graham Scan and Jarvis March tutorial — Stable Sort](https://www.youtube.com/watch?v=B2AJoQSZf4M) (7 хв, англійською)

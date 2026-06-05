@@ -127,3 +127,7 @@ if inv&1 != 0 {
 ## Задачі для практики \{#practice-problems}
 
 * [Hackerrank - N-puzzle](https://www.hackerrank.com/challenges/n-puzzle)
+
+## Відеоматеріали \{#video}
+
+- [Parity of permutations, impossible puzzles and the magical determinant — Mathologer](https://www.youtube.com/watch?v=rUiulWItECQ) (39 хв, англійською)

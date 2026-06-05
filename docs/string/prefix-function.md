@@ -695,3 +695,7 @@ $$
 * [Codeforces - Anthem of Berland](http://codeforces.com/contest/808/problem/G)
 * [Codeforces - MUH and Cube Walls](http://codeforces.com/problemset/problem/471/D)
 * [Codeforces - Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [9.1 Knuth-Morris-Pratt KMP String Matching Algorithm — Abdul Bari](https://www.youtube.com/watch?v=V5-7GzOfADQ) (19 хв, англійською)

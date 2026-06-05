@@ -403,3 +403,7 @@ func query(a, b int) int {
 - [Codeforces - Tree or not Tree](https://codeforces.com/contest/117/problem/E)
 - [Codeforces - The Tree](https://codeforces.com/contest/1017/problem/G)
 - [Balkan OI 2018 - Min-max tree](https://oj.uz/problem/view/BOI18_minmaxtree)
+
+## Відеоматеріали \{#video}
+
+- [Hybrid Tutorial #-1: Heavy-Light Decomposition — Colin Galen](https://www.youtube.com/watch?v=_G_LMuLWMaI) (40 хв, англійською)

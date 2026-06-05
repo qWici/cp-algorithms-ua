@@ -162,3 +162,7 @@ func rabinKarp(s, t string) []int {
 * [Codeforces - Good Substrings](http://codeforces.com/problemset/problem/271/D)
 * [Codeforces - Palindromic characteristics](https://codeforces.com/problemset/problem/835/D)
 * [Leetcode - Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
+
+## Відеоматеріали \{#video}
+
+- [9.2 Rabin-Karp String Matching Algorithm — Abdul Bari](https://www.youtube.com/watch?v=qQ8vS2btsxI) (24 хв, англійською)

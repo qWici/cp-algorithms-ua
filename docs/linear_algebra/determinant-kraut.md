@@ -107,3 +107,7 @@ static BigInteger det (BigDecimal a [][], int n) {
 	}
 }
 ```
+
+## Відеоматеріали \{#video}
+
+- [Crout's Method for LU Decomposition - Numerical Methods — Blake Tabian](https://www.youtube.com/watch?v=yYxwlnilEJs) (14 хв, англійською)

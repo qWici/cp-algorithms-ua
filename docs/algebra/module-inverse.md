@@ -343,3 +343,7 @@ func invs(a []int64, m int64) []int64 {
 * [Codeforces 622F - The Sum of the k-th Powers](http://codeforces.com/problemset/problem/622/F)
 * [Codeforces 717A - Festival Organization](http://codeforces.com/problemset/problem/717/A)
 * [Codeforces 896D - Nephren Runs a Cinema](http://codeforces.com/problemset/problem/896/D)
+
+## Відеоматеріали \{#video}
+
+- [Multiplicative Inverse — Neso Academy](https://www.youtube.com/watch?v=YwaQ4m1eHQo) (10 хв, англійською)

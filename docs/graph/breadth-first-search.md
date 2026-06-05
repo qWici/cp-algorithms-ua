@@ -304,3 +304,7 @@ if (!used[u]) {
 * [CSES - Labyrinth](https://cses.fi/problemset/task/1193)
 * [CSES - Message Route](https://cses.fi/problemset/task/1667/)
 * [CSES - Monsters](https://cses.fi/problemset/task/1194)
+
+## Відеоматеріали \{#video}
+
+- [Breadth First Search (BFS): Visualized and Explained — Reducible](https://www.youtube.com/watch?v=xlVX7dXLS64) (11 хв, англійською)

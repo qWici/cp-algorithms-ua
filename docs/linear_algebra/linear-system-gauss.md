@@ -455,3 +455,7 @@ func gaussMod(a []uint64, n, m int) (int, uint64) {
 * [TIMUS1766 Humpty Dumpty](http://acm.timus.ru/problem.aspx?space=1&num=1766)
 * [TIMUS1266 Kirchhoff's Law](http://acm.timus.ru/problem.aspx?space=1&num=1266)
 * [Codeforces - No game no life](https://codeforces.com/problemset/problem/1411/G)
+
+## Відеоматеріали \{#video}
+
+- [Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers — Jeffrey Chasnov](https://www.youtube.com/watch?v=RgnWMBpQPXk) (14 хв, англійською)

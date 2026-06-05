@@ -801,3 +801,7 @@ $$
 - [Timus #1069 - Prufer Code](http://acm.timus.ru/problem.aspx?space=1&num=1069)
 - [Codeforces - Clues](http://codeforces.com/contest/156/problem/D)
 - [Topcoder - TheCitiesAndRoadsDivTwo](https://community.topcoder.com/stat?c=problem_statement&pm=10774&rd=14146)
+
+## Відеоматеріали \{#video}
+
+- [Graph Theory: 40. Cayley's Formula and Prufer Seqences part 1/2 — Sarada Herke](https://www.youtube.com/watch?v=Ve447EOW8ww) (14 хв, англійською)

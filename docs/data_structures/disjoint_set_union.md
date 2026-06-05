@@ -1299,3 +1299,7 @@ func unionSets(a, b int) {
 * [Toph - Unbelievable Array](https://toph.co/p/unbelievable-array)
 * [HackerEarth - Lexicographically minimal string](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/description/)
 * [HackerEarth - Fight in Ninja World](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/containers-of-choclates-1/)
+
+## Відеоматеріали \{#video}
+
+- [1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find — Abdul Bari](https://www.youtube.com/watch?v=wU6udHRIkcc) (26 хв, англійською)

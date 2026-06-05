@@ -631,3 +631,7 @@ func segmentedSieveNoPreGen(L, R int64) []bool {
 * [SPOJ - Printing some primes (hard)](http://www.spoj.com/problems/PRIMES2/)
 * [Codeforces - Nodbach Problem](https://codeforces.com/problemset/problem/17/A)
 * [Codeforces - Colliders](https://codeforces.com/problemset/problem/154/B)
+
+## Відеоматеріали \{#video}
+
+- [Finding Prime numbers - Sieve of Eratosthenes — mycodeschool](https://www.youtube.com/watch?v=eKp56OLhoQs) (10 хв, англійською)

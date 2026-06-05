@@ -122,3 +122,7 @@ func revG(g int) int {
 ## Задачі для практики \{#practice-problems}
 *   <a href="https://cses.fi/problemset/task/2205">Gray Code &nbsp;&nbsp;&nbsp;&nbsp; [Difficulty: easy]</a>
 *   <a href="http://codeforces.com/problemsets/acmsguru/problem/99999/249">SGU #249 <b>"Matrix"</b> &nbsp;&nbsp;&nbsp;&nbsp; [Difficulty: medium]</a>
+
+## Відеоматеріали \{#video}
+
+- [Introduction to Gray Code — Neso Academy](https://www.youtube.com/watch?v=0dPN4gh0CKI) (6 хв, англійською)

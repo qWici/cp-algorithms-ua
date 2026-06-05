@@ -1089,3 +1089,7 @@ func brent(n *big.Int, x0, c int64) *big.Int {
 - [SPOJ - FACT1](https://www.spoj.com/problems/FACT1/)
 - [SPOJ - FACT2](https://www.spoj.com/problems/FACT2/)
 - [GCPC 15 - Divisions](https://codeforces.com/gym/100753)
+
+## Відеоматеріали \{#video}
+
+- [How To Quickly Factor a Number: Pollard's Rho Algorithm — William Y. Feng](https://www.youtube.com/watch?v=7lhlJTtCsiw) (7 хв, англійською)

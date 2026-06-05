@@ -405,3 +405,7 @@ func minCostFlow(N int, edges []Edge, K, s, t int) int {
 * [CSES - Task Assignment](https://cses.fi/problemset/task/2129)
 * [CSES - Grid Puzzle II](https://cses.fi/problemset/task/2131)
 * [AtCoder - Dream Team](https://atcoder.jp/contests/abc247/tasks/abc247_g)
+
+## Відеоматеріали \{#video}
+
+- [CSE 550 (2022, Fall): 3.6 The Minimum-Cost-Flow Problem — Joshua J. Daymude](https://www.youtube.com/watch?v=0tjpC0MCwY8) (14 хв, англійською)

@@ -391,3 +391,7 @@ func (m *Mex) Update(idx, newValue int) {
 - [Codeforces: Replace by MEX](https://codeforces.com/contest/1375/problem/D)
 - [Codeforces: Vitya and Strange Lesson](https://codeforces.com/problemset/problem/842/D)
 - [Codeforces: MEX Queries](https://codeforces.com/contest/817/problem/F)
+
+## Відеоматеріали \{#video}
+
+- [Everything you need to know about MEX operation — peltorator](https://www.youtube.com/watch?v=JDuVLyKn7Yw) (15 хв, англійською)

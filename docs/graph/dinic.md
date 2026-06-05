@@ -453,3 +453,7 @@ func min64(a, b int64) int64 {
 ## Задачі для практики \{#practice-problems}
 
 * [SPOJ: FASTFLOW](https://www.spoj.com/problems/FASTFLOW/)
+
+## Відеоматеріали \{#video}
+
+- [Dinic's Algorithm | Network Flow | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=M6cm8UeeziI) (12 хв, англійською)

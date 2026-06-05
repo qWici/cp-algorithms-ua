@@ -443,3 +443,7 @@ func main() {
 
 * [Kattis - Gopher II](https://open.kattis.com/problems/gopher2)
 * [Kattis - Borders](https://open.kattis.com/problems/borders)
+
+## Відеоматеріали \{#video}
+
+- [The Augmenting Path Algorithm for Bipartite Matching — stoleemath](https://www.youtube.com/watch?v=ory4WMX0rDU) (7 хв, англійською)

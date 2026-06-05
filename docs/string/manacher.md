@@ -365,3 +365,7 @@ func manacher(s string) []int {
 - [CF - Prefix-Suffix Palindrome](https://codeforces.com/contest/1326/problem/D2)
 - [SPOJ - Number of Palindromes](https://www.spoj.com/problems/NUMOFPAL/)
 - [Kattis - Palindromes](https://open.kattis.com/problems/palindromes)
+
+## Відеоматеріали \{#video}
+
+- [Longest Palindromic Substring Manacher's Algorithm — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=V-sEwsca1ak) (17 хв, англійською)

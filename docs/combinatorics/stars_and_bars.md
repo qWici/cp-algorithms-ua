@@ -87,3 +87,7 @@ $$
 * [Codeforces - Colorful Bricks](https://codeforces.com/contest/1081/problem/C)
 * [Codeforces - Two Arrays](https://codeforces.com/problemset/problem/1288/C)
 * [Codeforces - One-Dimensional Puzzle](https://codeforces.com/contest/1931/problem/G)
+
+## Відеоматеріали \{#video}
+
+- [Stars and Bars (and bagels) - Numberphile — Numberphile](https://www.youtube.com/watch?v=UTCScjoPymA) (16 хв, англійською)

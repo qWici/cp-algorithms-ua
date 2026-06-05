@@ -438,4 +438,6 @@ func countUniqueSubstrings(s string) int {
 * [Codeforces - Deletion of Repeats](http://codeforces.com/contest/19/problem/C)
 * [HackerRank - Gift Boxes](https://www.hackerrank.com/contests/womens-codesprint-5/challenges/gift-boxes)
 
+## Відеоматеріали \{#video}
 
+- [L03 : Polynomial Rolling Hash — CodeNCode](https://www.youtube.com/watch?v=eeiSPXCzUiE) (16 хв, англійською)

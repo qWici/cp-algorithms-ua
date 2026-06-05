@@ -207,3 +207,7 @@ func generator(p int) int {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [Primitive Roots — Neso Academy](https://www.youtube.com/watch?v=DKy98FWHwdg) (9 хв, англійською)

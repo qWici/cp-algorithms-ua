@@ -291,3 +291,7 @@ $$
   - [SPOJ - COMDIV](https://www.spoj.com/problems/COMDIV/)
   - [SPOJ - DIVSUM](https://www.spoj.com/problems/DIVSUM/)
   - [SPOJ - DIVSUM2](https://www.spoj.com/problems/DIVSUM2/)
+
+## Відеоматеріали \{#video}
+
+- [L2. Print all Divisors of a Number — take U forward](https://www.youtube.com/watch?v=Ae_Ag_saG9s) (9 хв, англійською)

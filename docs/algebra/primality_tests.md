@@ -582,3 +582,7 @@ func MillerRabinDeterministic(n uint64) bool {
 
 - [SPOJ - Prime or Not](https://www.spoj.com/problems/PON/)
 - [Project euler - Investigating a Prime Pattern](https://projecteuler.net/problem=146)
+
+## Відеоматеріали \{#video}
+
+- [Testing for Primality (Miller-Rabin Test) — Neso Academy](https://www.youtube.com/watch?v=8i0UnX7Snkc) (10 хв, англійською)

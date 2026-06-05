@@ -328,3 +328,7 @@ func maxFlow(s, t int) int {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [A Second Course in Algorithms (Lecture 3: The Push-Relabel Algorithm for Maximum Flow) — Tim Roughgarden Lectures](https://www.youtube.com/watch?v=0hI89H39USg) (76 хв, англійською)

@@ -282,3 +282,7 @@ $$
 ## Аналітичний розв'язок для $k > 2$ \{#analytical-solution-for-k-2-1}
 
 Попри просту форму задачі та велику кількість статей про неї та споріднені задачі, простого аналітичного представлення розв'язку задачі Йосипа досі не знайдено. Для малих $k$ деякі формули виведені, але, схоже, усі вони важко застосовні на практиці (наприклад, див. Halbeisen, Hungerbuhler "The Josephus Problem" та Odlyzko, Wilf "Functional iteration and the Josephus problem").
+
+## Відеоматеріали \{#video}
+
+- [The Josephus Problem — Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE) (14 хв, англійською)

@@ -223,3 +223,7 @@ $$
 - [HackerRank - Tower Breakers, Again!](https://www.hackerrank.com/contests/5-days-of-game-theory/challenges/tower-breakers-3/problem)
 - [HackerRank - Chessboard Game, Again!](https://www.hackerrank.com/contests/5-days-of-game-theory/challenges/a-chessboard-game)
 - [Atcoder - ABC368F - Dividing Game](https://atcoder.jp/contests/abc368/tasks/abc368_f)
+
+## Відеоматеріали \{#video}
+
+- [Grundy Numbers - Combinatorial Game Theory I — Gaurav Sen](https://www.youtube.com/watch?v=MboYbpE76js) (11 хв, англійською)

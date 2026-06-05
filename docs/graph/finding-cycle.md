@@ -464,3 +464,7 @@ func findCycle() {
 - [AtCoder : Reachability in Functional Graph](https://atcoder.jp/contests/abc357/tasks/abc357_e)
 - [CSES : Round Trip](https://cses.fi/problemset/task/1669)
 - [CSES : Round Trip II](https://cses.fi/problemset/task/1678/)
+
+## Відеоматеріали \{#video}
+
+- [Detect Cycle in Directed Graph Algorithm — Tushar Roy](https://www.youtube.com/watch?v=rKQaZuoUR4M) (11 хв, англійською)

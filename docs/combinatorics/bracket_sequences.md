@@ -621,3 +621,7 @@ func kthBalanced2(n, k int) string {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [Generate Parentheses - Stack - Leetcode 22 — NeetCode](https://www.youtube.com/watch?v=s9fokUqJ76A) (14 хв, англійською)

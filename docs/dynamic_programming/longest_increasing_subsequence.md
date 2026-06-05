@@ -676,3 +676,7 @@ $$
 - [UVA - Back To Edit Distance](https://onlinejudge.org/external/127/12747.pdf)
 - [UVA - Happy Birthday](https://onlinejudge.org/external/120/12002.pdf)
 - [UVA - Tiling Up Blocks](https://onlinejudge.org/external/11/1196.pdf)
+
+## Відеоматеріали \{#video}
+
+- [Longest Increasing Subsequence - Dynamic Programming - Leetcode 300 — NeetCode](https://www.youtube.com/watch?v=cjWnW0hdF1Y) (18 хв, англійською)

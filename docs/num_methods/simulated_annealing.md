@@ -518,3 +518,7 @@ func P(E, ENext, T float64) bool {
 - [USACO Jan 2017 - Subsequence Reversal](https://usaco.org/index.php?page=viewproblem2&cpid=698)
 - [Deltix Summer 2021 - DIY Tree](https://codeforces.com/contest/1556/problem/H)
 - [AtCoder Contest Scheduling](https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_a)
+
+## Відеоматеріали \{#video}
+
+- [The simulated annealing algorithm explained with an analogy to a toy — Badri Adhikari](https://www.youtube.com/watch?v=eBmU1ONJ-os) (11 хв, англійською)

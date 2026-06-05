@@ -458,3 +458,7 @@ func main() {
 - [CSES : Teleporters Path](https://cses.fi/problemset/task/1693)
 - [Codeforces - Melody](https://codeforces.com/contest/2110/problem/E)
 - [Codeforces - Tanya and Password](https://codeforces.com/contest/508/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [Eulerian Path/Circuit algorithm (Hierholzer's algorithm) | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=8MpoO2zA2l4) (16 хв, англійською)

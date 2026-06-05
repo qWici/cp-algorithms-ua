@@ -334,3 +334,7 @@ $$
 * [Google Code Jam - Golf Gophers](https://github.com/google/coding-competitions-archive/blob/main/codejam/2019/round_1a/golf_gophers/statement.pdf)
 * [Hackerrank - Number of sequences](https://www.hackerrank.com/contests/w22/challenges/number-of-sequences)
 * [Codeforces - Remainders Game](http://codeforces.com/problemset/problem/687/B)
+
+## Відеоматеріали \{#video}
+
+- [Chinese Remainder Theorem, 2-minute Method — Errichto Algorithms](https://www.youtube.com/watch?v=EHDEvFuYPRQ) (9 хв, англійською)

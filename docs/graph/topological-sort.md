@@ -178,3 +178,7 @@ func topologicalSort() {
 - [CSES - Course Schedule](https://cses.fi/problemset/task/1679)
 - [CSES - Longest Flight Route](https://cses.fi/problemset/task/1680)
 - [CSES - Game Routes](https://cses.fi/problemset/task/1681)
+
+## Відеоматеріали \{#video}
+
+- [Topological Sort Algorithm | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=eL-KzMXSXXI) (14 хв, англійською)

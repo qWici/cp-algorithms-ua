@@ -398,4 +398,6 @@ $$
 * [SPOJ - Just add it](http://www.spoj.com/problems/ZSUM/)
 * [Codeforces - Stairs and Lines](https://codeforces.com/contest/498/problem/E)
 
+## Відеоматеріали \{#video}
 
+- [Binary Exponentiation — Errichto Algorithms](https://www.youtube.com/watch?v=L-Wzglnm4dM) (15 хв, англійською)

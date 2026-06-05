@@ -143,3 +143,7 @@ if c*c > r*r*(a*a+b*b)+EPS {
 ## Задачі для практики \{#practice-problems}
 
 - [CODECHEF: ANDOOR](https://www.codechef.com/problems/ANDOOR)
+
+## Відеоматеріали \{#video}
+
+- [Intersection Between Line and Circle | 2D Segment Collision Algorithm — Ghost Telepathy](https://www.youtube.com/watch?v=_3dRFu3k8Nw) (30 хв, англійською)

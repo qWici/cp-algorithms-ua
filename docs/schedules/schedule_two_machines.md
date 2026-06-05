@@ -233,3 +233,7 @@ func finishTimes(jobs []Job) (int, int) {
 Уся інформація про кожну задачу зберігається в структурі.
 Перша функція сортує всі задачі та обчислює оптимальний розклад.
 Друга функція обчислює моменти завершення для обох машин за заданим розкладом.
+
+## Відеоматеріали \{#video}
+
+- [Johnson's Rule: Sequencing N Jobs on Two Machines — Cary Countryman](https://www.youtube.com/watch?v=XNcTRdtK5_A) (11 хв, англійською)

@@ -379,3 +379,7 @@ $$
 $$
     L_n = 1 + \sum_{k=1}^n \varphi(k).
 $$
+
+## Відеоматеріали \{#video}
+
+- [Fractions and the Stern-Brocot tree — Insights into Mathematics](https://www.youtube.com/watch?v=CiO8iAYC6xI) (36 хв, англійською)

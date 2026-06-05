@@ -240,3 +240,7 @@ for _, e := range edges {
 * [SPOJ - Modems](https://www.spoj.com/problems/EC_MODE/)
 * [CSES - Road Reparation](https://cses.fi/problemset/task/1675)
 * [CSES - Road Construction](https://cses.fi/problemset/task/1676)
+
+## Відеоматеріали \{#video}
+
+- [Union Find Kruskal's Algorithm — WilliamFiset](https://www.youtube.com/watch?v=JZBQLXgSGfs) (6 хв, англійською)

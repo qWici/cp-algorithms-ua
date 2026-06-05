@@ -149,3 +149,7 @@ $$
 - [SPOJ - FUNPROB](http://www.spoj.com/problems/FUNPROB/)
 * [LOJ - 1170 - Counting Perfect BST](http://lightoj.com/volume_showproblem.php?problem=1170)
 * [UVA - 12887 - The Soldier's Dilemma](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4752)
+
+## Відеоматеріали \{#video}
+
+- [Catalan Numbers - Numberphile — Numberphile](https://www.youtube.com/watch?v=fczN0BCx0xs) (13 хв, англійською)

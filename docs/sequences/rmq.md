@@ -34,3 +34,7 @@
 - [SPOJ: Range Minimum Query](http://www.spoj.com/problems/RMQSQ/)
 - [CODECHEF: Chef And Array](https://www.codechef.com/problems/FRMQ)
 - [Codeforces:  Array Partition](https://codeforces.com/contest/1454/problem/F)
+
+## Відеоматеріали \{#video}
+
+- [Sparse Table & RMQ (Range Minimum Query) — Errichto Algorithms](https://www.youtube.com/watch?v=0jWeUdxrGm4) (19 хв, англійською)

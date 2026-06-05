@@ -299,3 +299,7 @@ func findComps() {
  - [SPOJ: CT23E](http://www.spoj.com/problems/CT23E/)
  - [CODECHEF: GERALD07](https://www.codechef.com/MARCH14/problems/GERALD07)
  - [CSES : Building Roads](https://cses.fi/problemset/task/1666)
+
+## Відеоматеріали \{#video}
+
+- [Number of Connected Components in an Undirected Graph - Union Find - Leetcode 323 - Python — NeetCode](https://www.youtube.com/watch?v=8f1XPm4WOUc) (16 хв, англійською)

@@ -251,3 +251,7 @@ func kruskal() {
 ## Задачі для практики \{#practice-problems}
 
 Список задач для практики на цю тему дивіться в [головній статті про алгоритм Крускала](mst_kruskal.md).
+
+## Відеоматеріали \{#video}
+
+- [Kruskal's Algorithm Visually Explained | Disjoint Sets | Union By Rank | Path Compression — ByteQuest](https://www.youtube.com/watch?v=8HeLu8wuLqo) (9 хв, англійською)

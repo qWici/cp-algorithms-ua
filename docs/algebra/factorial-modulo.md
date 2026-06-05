@@ -220,3 +220,7 @@ func multiplicityFactorial(n, p int) int {
 Приберемо всі елементи, які не містять множника $p$.
 Залишиться $\lfloor n/p \rfloor$ елементів.
 Якщо прибрати множник $p$ з кожного з них, ми отримаємо добуток $1 \cdot 2 \cdots \lfloor n/p \rfloor = \lfloor n/p \rfloor !$, і ми знову маємо рекурсію.
+
+## Відеоматеріали \{#video}
+
+- [Computations Modulo P in Competitive Programming — Errichto Algorithms](https://www.youtube.com/watch?v=-OPohCQqi_E) (18 хв, англійською)

@@ -204,3 +204,7 @@ int gcd(int a, int b) {
 
 - [CSAcademy - Greatest Common Divisor](https://csacademy.com/contest/archive/task/gcd/)
 - [Codeforces 1916B - Two Divisors](https://codeforces.com/contest/1916/problem/B)
+
+## Відеоматеріали \{#video}
+
+- [GCD - Euclidean Algorithm (Method 1) — Neso Academy](https://www.youtube.com/watch?v=yHwneN6zJmU) (15 хв, англійською)

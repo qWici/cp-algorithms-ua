@@ -679,3 +679,7 @@ func resultant(a, b []int64) int64 {
 - [CodeForces - Basis Change](https://codeforces.com/gym/102129/problem/D)
 - [CodeForces - Permutant](https://codeforces.com/gym/102129/problem/G)
 - [CodeForces - Medium Hadron Collider](https://codeforces.com/gym/102129/problem/C)
+
+## Відеоматеріали \{#video}
+
+- [fast fourier transform(fft) for polynomial multiplication explained — Nikhil Kekan](https://youtu.be/q6r0NhKECE8) (24 хв, англійською)

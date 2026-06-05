@@ -1389,3 +1389,7 @@ func output(t *Node, acc *[]int) {
 * [Codeforces - T-Shirts](https://codeforces.com/contest/702/problem/F)
 * [Codeforces - Wizards and Roads](https://codeforces.com/problemset/problem/167/D)
 * [Codeforces - Yaroslav and Points](https://codeforces.com/contest/295/problem/E)
+
+## Відеоматеріали \{#video}
+
+- [AlgorithmsThread 9: Treaps! — SecondThread](https://www.youtube.com/watch?v=6x0UlIBLRsc) (44 хв, англійською)

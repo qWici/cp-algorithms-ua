@@ -265,3 +265,7 @@ func zeroMatrix(a [][]int) int {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [DP 55. Maximum Rectangle Area with all 1's | DP on Rectangles — take U forward](https://www.youtube.com/watch?v=tOylVCugy9k) (11 хв, англійською)

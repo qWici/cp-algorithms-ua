@@ -473,3 +473,7 @@ _Зауважте, що деякі з операцій (як функції C++2
 * [Codeforces - Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
 * [Codeforces - Fedor and New Game](https://codeforces.com/problemset/problem/467/B)
 * [Codeforces - And Then There Were K](https://codeforces.com/problemset/problem/1527/A)
+
+## Відеоматеріали \{#video}
+
+- [Bitwise Operations tutorial #1 | XOR, Shift, Subsets — Errichto Algorithms](https://www.youtube.com/watch?v=xXKL9YBWgCY) (12 хв, англійською)

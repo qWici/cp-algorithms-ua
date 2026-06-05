@@ -170,3 +170,7 @@ func ternarySearch(l, r float64) float64 {
 * [TIMUS 1451 Beerhouse Tale](https://acm.timus.ru/problem.aspx?space=1&num=1451)
 * [TIMUS 1719 Kill the Shaitan-Boss](https://acm.timus.ru/problem.aspx?space=1&num=1719)
 * [TIMUS 1913 Titan Ruins: Alignment of Forces](https://acm.timus.ru/problem.aspx?space=1&num=1913)
+
+## Відеоматеріали \{#video}
+
+- [Ternary Search with example — Code Wagon](https://www.youtube.com/watch?v=WyWL1PBNvb8) (10 хв, англійською)

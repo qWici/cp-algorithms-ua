@@ -997,3 +997,7 @@ func delaunay(input []Pt) [][3]Pt {
  * [TIMUS 1504 Good Manners](http://acm.timus.ru/problem.aspx?space=1&num=1504)
  * [TIMUS 1520 Empire Strikes Back](http://acm.timus.ru/problem.aspx?space=1&num=1520)
  * [SGU 383 Caravans](https://codeforces.com/problemsets/acmsguru/problem/99999/383)
+
+## Відеоматеріали \{#video}
+
+- [Delaunay Triangulation (1/5) | Computational Geometry - Lecture 08 — Philipp Kindermann](https://www.youtube.com/watch?v=6UsdvbiJx54) (6 хв, англійською)

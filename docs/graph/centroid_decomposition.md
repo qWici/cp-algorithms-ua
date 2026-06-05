@@ -534,3 +534,7 @@ func decompose(v, p int) int {
 - [Codeforces - Digit Tree](http://codeforces.com/contest/716/problem/E) [difficulty: medium]
 - [OJ - Race](https://oj.uz/problem/view/IOI11_race) [difficulty: medium]
 - [SPOJ - QTREE5](http://www.spoj.com/problems/QTREE5/) [difficulty: hard]
+
+## Відеоматеріали \{#video}
+
+- [Hybrid Tutorial #-2: Centroid Decomposition — Colin Galen](https://www.youtube.com/watch?v=-DmMLQCmz94) (64 хв, англійською)

@@ -1095,3 +1095,7 @@ func build() {
 ## Задачі для практики \{#practice-problems}
 
 * [UVA 10679 - I Love Strings!!!](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1620)
+
+## Відеоматеріали \{#video}
+
+- [Suffix Tree using Ukkonen's algorithm — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=aPRqocoBsFQ) (76 хв, англійською)

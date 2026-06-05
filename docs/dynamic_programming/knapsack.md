@@ -336,3 +336,7 @@ for _, item := range items {
 - [CSES: Book Shop II](https://cses.fi/problemset/task/1159)
 - [DMOJ: Knapsack-3](https://dmoj.ca/problem/knapsack)
 - [DMOJ: Knapsack-4](https://dmoj.ca/problem/knapsack4)
+
+## Відеоматеріали \{#video}
+
+- [0/1 Knapsack problem | Dynamic Programming — WilliamFiset](https://www.youtube.com/watch?v=cJ21moQpofY) (13 хв, англійською)

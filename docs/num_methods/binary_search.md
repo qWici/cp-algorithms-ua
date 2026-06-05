@@ -233,3 +233,7 @@ $$
 * [Codeforces - GukiZ hates Boxes](https://codeforces.com/problemset/problem/551/C)
 * [Codeforces - Enduring Exodus](https://codeforces.com/problemset/problem/645/C)
 * [Codeforces - Chip 'n Dale Rescue Rangers](https://codeforces.com/problemset/problem/590/B)
+
+## Відеоматеріали \{#video}
+
+- [Binary Search Algorithm - Computerphile — Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk) (19 хв, англійською)

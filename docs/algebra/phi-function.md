@@ -436,3 +436,7 @@ $$
 * [LeetCode - 372. Super Pow](https://leetcode.com/problems/super-pow/)
 * [Codeforces - The Holmes Children](http://codeforces.com/problemset/problem/776/E)
 * [Codeforces - Small GCD](https://codeforces.com/contest/1900/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [Euler’s Totient Function (Phi Function) — Neso Academy](https://www.youtube.com/watch?v=DwQ7-k9LkJ4) (9 хв, англійською)

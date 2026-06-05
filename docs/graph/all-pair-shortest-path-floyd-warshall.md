@@ -259,3 +259,7 @@ if d[i][k]+d[k][j] < d[i][j]-EPS {
  * [LOJ - 1086 - Jogging Trails](http://lightoj.com/volume_showproblem.php?problem=1086)
  * [SPOJ - Ingredients](http://www.spoj.com/problems/INGRED/)
  * [CSES - Shortest Routes II](https://cses.fi/problemset/task/1672)
+
+## Відеоматеріали \{#video}
+
+- [4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming — Abdul Bari](https://www.youtube.com/watch?v=oNI0rf2P9gE) (14 хв, англійською)

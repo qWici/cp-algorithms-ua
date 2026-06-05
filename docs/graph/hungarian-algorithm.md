@@ -527,3 +527,7 @@ cost := -v[0]
 - [UVA - The Great Wall Game](http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1277)
 
 - [UVA - Jogging Trails](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1237)
+
+## Відеоматеріали \{#video}
+
+- [How to Solve an Assignment Problem Using the Hungarian Method — Shokoufeh Mirzaei](https://www.youtube.com/watch?v=ezSx8OyBZVc) (12 хв, англійською)

@@ -109,3 +109,7 @@ $a=(y-2x)L-b$
 - [Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
+
+## Відеоматеріали \{#video}
+
+- [Linked List Cycle - Floyd's Tortoise and Hare — NeetCode](https://www.youtube.com/watch?v=gBTe7lFR3vc) (11 хв, англійською)

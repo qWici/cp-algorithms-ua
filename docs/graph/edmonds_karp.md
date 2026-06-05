@@ -382,3 +382,7 @@ func maxflow(s, t int) int {
 - [CSES - Police Chase](https://cses.fi/problemset/task/1695)
 - [CSES - School Dance](https://cses.fi/problemset/task/1696)
 - [CSES - Distinct Routes](https://cses.fi/problemset/task/1711)
+
+## Відеоматеріали \{#video}
+
+- [Edmonds Karp Algorithm | Network Flow | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=RppuJYwlcI8) (10 хв, англійською)

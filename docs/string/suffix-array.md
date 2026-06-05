@@ -829,3 +829,7 @@ $$
 * [Codeforces - Forbidden Indices](http://codeforces.com/contest/873/problem/F)
 * [Codeforces - Tricky and Clever Password](http://codeforces.com/contest/30/problem/E)
 * [LA 6856 - Circle of digits](https://vjudge.net/problem/UVALive-6856)
+
+## Відеоматеріали \{#video}
+
+- [Advanced Data Structures: Suffix Arrays — Niema Moshiri](https://www.youtube.com/watch?v=IzMxbboPcqQ) (6 хв, англійською)

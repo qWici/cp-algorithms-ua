@@ -174,3 +174,7 @@ func computeSchedule(jobs []Job) []int {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [Job Sequencing with Deadlines - Greedy Method — Abdul Bari](https://www.youtube.com/watch?v=zPtI8q9gvX8) (13 хв, англійською)

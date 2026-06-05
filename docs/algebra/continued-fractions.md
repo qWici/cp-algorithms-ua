@@ -1573,3 +1573,7 @@ def mod_min(r, n, m):
 * [2019 Multi-University Training Contest 5 - fraction](http://acm.hdu.edu.cn/showproblem.php?pid=6624)
 * [SnackDown 2019 Elimination Round - Election Bait](https://www.codechef.com/SNCKEL19/problems/EBAIT)
 * [Code Jam 2019 round 2 - Continued Fraction](https://github.com/google/coding-competitions-archive/blob/main/codejam/2019/round_2/new_elements_part_2/statement.pdf)
+
+## Відеоматеріали \{#video}
+
+- [Infinite Continued Fractions, simple or not? — blackpenredpen](https://www.youtube.com/watch?v=vw4eYXMWYEw) (11 хв, англійською)

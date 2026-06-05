@@ -200,3 +200,7 @@ public static BigInteger isqrtNewton(BigInteger n) {
 
 ## Задачі для практики \{#practice-problems}
 - [UVa 10428 - The Roots](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1369)
+
+## Відеоматеріали \{#video}
+
+- [Newton's Method — The Organic Chemistry Tutor](https://www.youtube.com/watch?v=-5e2cULI3H8) (11 хв, англійською)

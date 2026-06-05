@@ -2981,3 +2981,7 @@ func (v *Vertex) getSum(lq, rq int) int {
 * [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)
 * [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)
 
+
+## Відеоматеріали \{#video}
+
+- [Segment Tree (Implementation) — Errichto Hard Algorithms](https://www.youtube.com/watch?v=2FShdqn-Oz8) (79 хв, англійською)

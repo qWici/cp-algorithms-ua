@@ -35,3 +35,7 @@ $T^j$ — це матриця з викресленими рядком і сто
  - [CODECHEF: Roads in Stars](https://www.codechef.com/problems/STARROAD)
  - [SPOJ: Maze](http://www.spoj.com/problems/KPMAZE/)
  - [CODECHEF: Complement Spanning Trees](https://www.codechef.com/problems/CSTREE)
+
+## Відеоматеріали \{#video}
+
+- [Kirchhoff's Theorem for Calculating number of Spanning trees Of a Graph — GeeksforGeeks](https://www.youtube.com/watch?v=NcOYysnlx-0) (6 хв, англійською)

@@ -528,3 +528,7 @@ func goTo(v int, ch byte) int {
 
 ## Джерела \{#references}
 - [Stanford's CS166 - Aho-Corasick Automata](http://web.stanford.edu/class/archive/cs/cs166/cs166.1166/lectures/02/Slides02.pdf) ([Condensed](http://web.stanford.edu/class/archive/cs/cs166/cs166.1166/lectures/02/Small02.pdf))
+
+## Відеоматеріали \{#video}
+
+- [Advanced Data Structures: Aho-Corasick Automaton — Niema Moshiri](https://www.youtube.com/watch?v=O7_w001f58c) (10 хв, англійською)

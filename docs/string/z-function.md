@@ -327,3 +327,7 @@ func min(a, b int) int {
 * [LA 6439 - Pasti Pas!](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=588&page=show_problem&problem=4450)
 * [Codechef - Chef and Strings](https://www.codechef.com/problems/CHSTR)
 * [Codeforces - Prefixes and Suffixes](http://codeforces.com/problemset/problem/432/D)
+
+## Відеоматеріали \{#video}
+
+- [Z Algorithm Z values — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=CpZh4eF8QBw) (24 хв, англійською)

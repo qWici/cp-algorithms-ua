@@ -349,3 +349,7 @@ func (l *LCA) lca(u, v int) int {
  * [Codeforces - Misha, Grisha and Underground](http://codeforces.com/contest/832/problem/D)
  * [SPOJ - Nlogonian Tickets](http://www.spoj.com/problems/NTICKETS/)
  * [Codeforces - Rowena Rawenclaws Diadem](http://codeforces.com/contest/855/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [Lowest Common Ancestor (LCA) Problem | Eulerian path method — WilliamFiset](https://www.youtube.com/watch?v=sD1IoalFomA) (17 хв, англійською)

@@ -789,3 +789,7 @@ func spfa(adj [][][2]int, s int) (bool, []int) {
 Дивіться також список задач у статті [Пошук циклу від'ємної ваги в графі](finding-negative-cycle-in-graph.md).
 * [CSES - High Score](https://cses.fi/problemset/task/1673)
 * [CSES - Cycle Finding](https://cses.fi/problemset/task/1197)
+
+## Відеоматеріали \{#video}
+
+- [Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=lyw4FaxrwHg) (15 хв, англійською)

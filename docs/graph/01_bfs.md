@@ -222,3 +222,7 @@ for q.Len() > 0 {
 - [CHamber of Secrets](https://codeforces.com/problemset/problem/173/B)
 - [Spiral Maximum](https://codeforces.com/problemset/problem/173/C)
 - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)
+
+## Відеоматеріали \{#video}
+
+- [Breadth First Search Algorithm | Shortest Path | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=oDqjPvD54Ss) (7 хв, англійською)

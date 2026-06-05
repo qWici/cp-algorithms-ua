@@ -1027,3 +1027,7 @@ def range_sum(l, r):
 * [Fenwick tree on Wikipedia](http://en.wikipedia.org/wiki/Fenwick_tree)
 * [Binary indexed trees tutorial on TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
 * [Range updates and queries ](https://programmingcontests.quora.com/Tutorial-Range-Updates-in-Fenwick-Tree)
+
+## Відеоматеріали \{#video}
+
+- [Fenwick Tree or Binary Indexed Tree — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=CWDQJGaN1gY) (23 хв, англійською)

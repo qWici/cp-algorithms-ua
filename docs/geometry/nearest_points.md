@@ -939,3 +939,7 @@ func floorDiv(a, b int64) int64 {
 * [Google CodeJam 2009 Final "Min Perimeter" [difficulty: medium]](https://github.com/google/coding-competitions-archive/blob/main/codejam/2009/world_finals/min_perimeter/statement.pdf)
 * [SPOJ #7029 CLOSEST "Closest Triple" [difficulty: medium]](https://www.spoj.com/problems/CLOSEST/)
 * [TIMUS 1514 National Park [difficulty: medium]](https://acm.timus.ru/problem.aspx?space=1&num=1514)
+
+## Відеоматеріали \{#video}
+
+- [Closest Pair of Points | Divide and Conquer — GeeksforGeeks](https://www.youtube.com/watch?v=0W_m46Q4qMc) (9 хв, англійською)

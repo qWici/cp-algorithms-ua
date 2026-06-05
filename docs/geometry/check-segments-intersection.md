@@ -192,3 +192,7 @@ func checkInter(a, b, c, d Pt) bool {
 ```
 
 </CodeTabs>
+
+## Відеоматеріали \{#video}
+
+- [Check if two line segments intersect — Techdose](https://www.youtube.com/watch?v=bbTqI0oqL5U) (12 хв, англійською)

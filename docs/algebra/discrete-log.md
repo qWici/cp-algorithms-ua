@@ -602,3 +602,7 @@ func solve(a, b, m int) int {
 ## Джерела \{#references}
 * [Wikipedia - Baby-step giant-step](https://en.wikipedia.org/wiki/Baby-step_giant-step)
 * [Answer by Zander on Mathematics StackExchange](https://math.stackexchange.com/a/133054)
+
+## Відеоматеріали \{#video}
+
+- [Solving the DLP: Baby Step/Giant Step Algorithm — The Random Professor](https://www.youtube.com/watch?v=007MVsELvQw) (5 хв, англійською)

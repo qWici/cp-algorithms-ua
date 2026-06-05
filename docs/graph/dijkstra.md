@@ -374,3 +374,7 @@ func restorePath(s, t int, p []int) []int {
 * [CSES - Shortest Routes 1](https://cses.fi/problemset/task/1671)
 * [CSES - Flight Discount](https://cses.fi/problemset/task/1195)
 * [CSES - Flight Routes](https://cses.fi/problemset/task/1196)
+
+## Відеоматеріали \{#video}
+
+- [Dijkstra's Algorithm - Computerphile — Computerphile](https://www.youtube.com/watch?v=GazC3A4OQTE) (11 хв, англійською)

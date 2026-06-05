@@ -137,3 +137,7 @@ if isBipartite {
 - [Codeforces - String Coloring (easy version)](https://codeforces.com/contest/1296/problem/E1)
 - [CSES : Building Teams](https://cses.fi/problemset/task/1668)
 - [Codeforces - Alternating Path](https://codeforces.com/contest/2204/problem/D)
+
+## Відеоматеріали \{#video}
+
+- [How to Tell if Graph is Bipartite (by hand) | Graph Theory — Wrath of Math](https://www.youtube.com/watch?v=bZBmN7I7GNQ) (9 хв, англійською)
