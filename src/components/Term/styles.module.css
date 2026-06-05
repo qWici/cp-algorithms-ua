@@ -1,0 +1,63 @@
+.term {
+  position: relative;
+  cursor: help;
+  text-decoration: underline dotted 1.5px;
+  text-decoration-color: var(--ifm-color-primary);
+  text-underline-offset: 3px;
+  outline: none;
+}
+
+.term:hover,
+.term:focus {
+  text-decoration-style: solid;
+}
+
+/* Бульбашка підказки */
+.term::after {
+  content: attr(data-tip);
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 10px);
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: min(320px, 80vw);
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  background: var(--ifm-color-emphasis-900);
+  color: var(--ifm-color-emphasis-100);
+  font-size: 0.85rem;
+  font-weight: normal;
+  line-height: 1.45;
+  text-align: left;
+  white-space: normal;
+  box-shadow: var(--ifm-global-shadow-md);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease;
+  z-index: 200;
+  pointer-events: none;
+}
+
+/* Стрілочка */
+.term::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 4px);
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--ifm-color-emphasis-900);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease;
+  z-index: 200;
+  pointer-events: none;
+}
+
+.term:hover::after,
+.term:hover::before,
+.term:focus::after,
+.term:focus::before {
+  opacity: 1;
+  visibility: visible;
+}
