@@ -385,4 +385,4 @@ func maxflow(s, t int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Edmonds Karp Algorithm | Network Flow | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=RppuJYwlcI8) (10 хв, англійською)
+<YouTubeEmbed id="RppuJYwlcI8" title="Edmonds Karp Algorithm | Network Flow | Graph Theory — WilliamFiset" />

@@ -699,4 +699,4 @@ func IntersectPlanes(a1, n1, a2, n2, a3, n3 Point3d) Point3d {
 
 ## Відеоматеріали \{#video}
 
-- [Cross Product and Dot Product: Visual explanation — Physics Videos by Eugene Khutoryansky](https://www.youtube.com/watch?v=h0NJK4mEIJU) (4 хв, англійською)
+<YouTubeEmbed id="h0NJK4mEIJU" title="Cross Product and Dot Product: Visual explanation — Physics Videos by Eugene Khutoryansky" />

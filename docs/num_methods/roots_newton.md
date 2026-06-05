@@ -203,4 +203,4 @@ public static BigInteger isqrtNewton(BigInteger n) {
 
 ## Відеоматеріали \{#video}
 
-- [Newton's Method — The Organic Chemistry Tutor](https://www.youtube.com/watch?v=-5e2cULI3H8) (11 хв, англійською)
+<YouTubeEmbed id="-5e2cULI3H8" title="Newton's Method — The Organic Chemistry Tutor" />

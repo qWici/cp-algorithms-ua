@@ -233,4 +233,4 @@ func findCutpoints() {
 
 ## Відеоматеріали \{#video}
 
-- [5.2 Articulation Point and Biconnected Components — Abdul Bari](https://www.youtube.com/watch?v=jFZsDDB0-vo) (9 хв, англійською)
+<YouTubeEmbed id="jFZsDDB0-vo" title="5.2 Articulation Point and Biconnected Components — Abdul Bari" />

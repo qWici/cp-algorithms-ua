@@ -461,4 +461,4 @@ func main() {
 
 ## Відеоматеріали \{#video}
 
-- [Eulerian Path/Circuit algorithm (Hierholzer's algorithm) | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=8MpoO2zA2l4) (16 хв, англійською)
+<YouTubeEmbed id="8MpoO2zA2l4" title="Eulerian Path/Circuit algorithm (Hierholzer's algorithm) | Graph Theory — WilliamFiset" />

@@ -408,4 +408,4 @@ func minCostFlow(N int, edges []Edge, K, s, t int) int {
 
 ## Відеоматеріали \{#video}
 
-- [CSE 550 (2022, Fall): 3.6 The Minimum-Cost-Flow Problem — Joshua J. Daymude](https://www.youtube.com/watch?v=0tjpC0MCwY8) (14 хв, англійською)
+<YouTubeEmbed id="0tjpC0MCwY8" title="CSE 550 (2022, Fall): 3.6 The Minimum-Cost-Flow Problem — Joshua J. Daymude" />

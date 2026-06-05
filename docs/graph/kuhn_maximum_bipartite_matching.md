@@ -446,4 +446,4 @@ func main() {
 
 ## Відеоматеріали \{#video}
 
-- [The Augmenting Path Algorithm for Bipartite Matching — stoleemath](https://www.youtube.com/watch?v=ory4WMX0rDU) (7 хв, англійською)
+<YouTubeEmbed id="ory4WMX0rDU" title="The Augmenting Path Algorithm for Bipartite Matching — stoleemath" />

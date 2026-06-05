@@ -942,4 +942,4 @@ func floorDiv(a, b int64) int64 {
 
 ## Відеоматеріали \{#video}
 
-- [Closest Pair of Points | Divide and Conquer — GeeksforGeeks](https://www.youtube.com/watch?v=0W_m46Q4qMc) (9 хв, англійською)
+<YouTubeEmbed id="0W_m46Q4qMc" title="Closest Pair of Points | Divide and Conquer — GeeksforGeeks" />

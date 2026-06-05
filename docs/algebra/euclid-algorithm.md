@@ -207,4 +207,4 @@ int gcd(int a, int b) {
 
 ## Відеоматеріали \{#video}
 
-- [GCD - Euclidean Algorithm (Method 1) — Neso Academy](https://www.youtube.com/watch?v=yHwneN6zJmU) (15 хв, англійською)
+<YouTubeEmbed id="yHwneN6zJmU" title="GCD - Euclidean Algorithm (Method 1) — Neso Academy" />

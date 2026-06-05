@@ -339,4 +339,4 @@ for _, item := range items {
 
 ## Відеоматеріали \{#video}
 
-- [0/1 Knapsack problem | Dynamic Programming — WilliamFiset](https://www.youtube.com/watch?v=cJ21moQpofY) (13 хв, англійською)
+<YouTubeEmbed id="cJ21moQpofY" title="0/1 Knapsack problem | Dynamic Programming — WilliamFiset" />

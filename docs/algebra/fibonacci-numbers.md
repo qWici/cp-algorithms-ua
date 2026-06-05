@@ -490,4 +490,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [One second to compute the largest Fibonacci number I can — Sheafification of G](https://www.youtube.com/watch?v=KzT9I1d-LlQ) (26 хв, англійською)
+<YouTubeEmbed id="KzT9I1d-LlQ" title="One second to compute the largest Fibonacci number I can — Sheafification of G" />

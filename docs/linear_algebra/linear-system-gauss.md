@@ -458,4 +458,4 @@ func gaussMod(a []uint64, n, m int) (int, uint64) {
 
 ## Відеоматеріали \{#video}
 
-- [Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers — Jeffrey Chasnov](https://www.youtube.com/watch?v=RgnWMBpQPXk) (14 хв, англійською)
+<YouTubeEmbed id="RgnWMBpQPXk" title="Gaussian elimination | Lecture 10 | Matrix Algebra for Engineers — Jeffrey Chasnov" />

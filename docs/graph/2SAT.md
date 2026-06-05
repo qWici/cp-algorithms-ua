@@ -485,4 +485,4 @@ func exampleUsage() {
 
 ## Відеоматеріали \{#video}
 
-- [How to solve the 2-SAT problem in POLYNOMIAL TIME? — Inside code](https://www.youtube.com/watch?v=Ku-jJ0G4tIc) (16 хв, англійською)
+<YouTubeEmbed id="Ku-jJ0G4tIc" title="How to solve the 2-SAT problem in POLYNOMIAL TIME? — Inside code" />

@@ -56,4 +56,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Extension of maximum flow networks - Circulation with Demands — Shweta Singhal](https://www.youtube.com/watch?v=tZpDQY5dO7M) (20 хв, англійською)
+<YouTubeEmbed id="tZpDQY5dO7M" title="Extension of maximum flow networks - Circulation with Demands — Shweta Singhal" />

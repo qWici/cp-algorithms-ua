@@ -440,4 +440,4 @@ func countUniqueSubstrings(s string) int {
 
 ## Відеоматеріали \{#video}
 
-- [L03 : Polynomial Rolling Hash — CodeNCode](https://www.youtube.com/watch?v=eeiSPXCzUiE) (16 хв, англійською)
+<YouTubeEmbed id="eeiSPXCzUiE" title="L03 : Polynomial Rolling Hash — CodeNCode" />

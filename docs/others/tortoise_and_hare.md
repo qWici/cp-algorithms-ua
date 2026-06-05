@@ -112,4 +112,4 @@ $a=(y-2x)L-b$
 
 ## Відеоматеріали \{#video}
 
-- [Linked List Cycle - Floyd's Tortoise and Hare — NeetCode](https://www.youtube.com/watch?v=gBTe7lFR3vc) (11 хв, англійською)
+<YouTubeEmbed id="gBTe7lFR3vc" title="Linked List Cycle - Floyd's Tortoise and Hare — NeetCode" />

@@ -540,4 +540,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Diophantine Equation: ax+by=gcd(a,b) ← Number Theory — Socratica](https://www.youtube.com/watch?v=FjliV5u2IVw) (10 хв, англійською)
+<YouTubeEmbed id="FjliV5u2IVw" title="Diophantine Equation: ax+by=gcd(a,b) ← Number Theory — Socratica" />

@@ -439,4 +439,4 @@ func dijkstra(s int) (d []int, p []int) {
 
 ## Відеоматеріали \{#video}
 
-- [Implementing Dijkstra's Algorithm with a Priority Queue — Mary Elaine Califf](https://www.youtube.com/watch?v=CerlT7tTZfY) (11 хв, англійською)
+<YouTubeEmbed id="CerlT7tTZfY" title="Implementing Dijkstra's Algorithm with a Priority Queue — Mary Elaine Califf" />

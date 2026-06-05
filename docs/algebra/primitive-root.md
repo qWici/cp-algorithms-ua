@@ -210,4 +210,4 @@ func generator(p int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Primitive Roots — Neso Academy](https://www.youtube.com/watch?v=DKy98FWHwdg) (9 хв, англійською)
+<YouTubeEmbed id="DKy98FWHwdg" title="Primitive Roots — Neso Academy" />

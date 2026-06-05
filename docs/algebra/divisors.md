@@ -294,4 +294,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [L2. Print all Divisors of a Number — take U forward](https://www.youtube.com/watch?v=Ae_Ag_saG9s) (9 хв, англійською)
+<YouTubeEmbed id="Ae_Ag_saG9s" title="L2. Print all Divisors of a Number — take U forward" />

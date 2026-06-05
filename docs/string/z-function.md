@@ -330,4 +330,4 @@ func min(a, b int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Z Algorithm Z values — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=CpZh4eF8QBw) (24 хв, англійською)
+<YouTubeEmbed id="CpZh4eF8QBw" title="Z Algorithm Z values — Tushar Roy - Coding Made Simple" />

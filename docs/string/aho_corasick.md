@@ -531,4 +531,4 @@ func goTo(v int, ch byte) int {
 
 ## Відеоматеріали \{#video}
 
-- [Advanced Data Structures: Aho-Corasick Automaton — Niema Moshiri](https://www.youtube.com/watch?v=O7_w001f58c) (10 хв, англійською)
+<YouTubeEmbed id="O7_w001f58c" title="Advanced Data Structures: Aho-Corasick Automaton — Niema Moshiri" />

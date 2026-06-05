@@ -565,4 +565,4 @@ func prim() int {
 
 ## Відеоматеріали \{#video}
 
-- [Prim's Minimum Spanning Tree Algorithm | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=jsmMtJpPnhU) (15 хв, англійською)
+<YouTubeEmbed id="jsmMtJpPnhU" title="Prim's Minimum Spanning Tree Algorithm | Graph Theory — WilliamFiset" />

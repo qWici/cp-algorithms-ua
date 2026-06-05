@@ -679,4 +679,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Longest Increasing Subsequence - Dynamic Programming - Leetcode 300 — NeetCode](https://www.youtube.com/watch?v=cjWnW0hdF1Y) (18 хв, англійською)
+<YouTubeEmbed id="cjWnW0hdF1Y" title="Longest Increasing Subsequence - Dynamic Programming - Leetcode 300 — NeetCode" />

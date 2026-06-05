@@ -1387,4 +1387,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? — Reducible](https://www.youtube.com/watch?v=h7apO7q16V0) (28 хв, англійською)
+<YouTubeEmbed id="h7apO7q16V0" title="The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? — Reducible" />

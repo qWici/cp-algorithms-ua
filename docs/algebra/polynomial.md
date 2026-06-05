@@ -682,4 +682,4 @@ func resultant(a, b []int64) int64 {
 
 ## Відеоматеріали \{#video}
 
-- [fast fourier transform(fft) for polynomial multiplication explained — Nikhil Kekan](https://youtu.be/q6r0NhKECE8) (24 хв, англійською)
+<YouTubeEmbed id="q6r0NhKECE8" title="fast fourier transform(fft) for polynomial multiplication explained — Nikhil Kekan" />

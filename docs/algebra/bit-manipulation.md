@@ -476,4 +476,4 @@ _Зауважте, що деякі з операцій (як функції C++2
 
 ## Відеоматеріали \{#video}
 
-- [Bitwise Operations tutorial #1 | XOR, Shift, Subsets — Errichto Algorithms](https://www.youtube.com/watch?v=xXKL9YBWgCY) (12 хв, англійською)
+<YouTubeEmbed id="xXKL9YBWgCY" title="Bitwise Operations tutorial #1 | XOR, Shift, Subsets — Errichto Algorithms" />

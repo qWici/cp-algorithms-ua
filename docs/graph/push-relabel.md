@@ -369,4 +369,4 @@ func maxFlow(n int, capacity [][]int, s, t int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Push Relabel for Max Network Flow — Nishant Pal](https://www.youtube.com/watch?v=G_P_vQpPyt0) (8 хв, англійською)
+<YouTubeEmbed id="G_P_vQpPyt0" title="Push Relabel for Max Network Flow — Nishant Pal" />

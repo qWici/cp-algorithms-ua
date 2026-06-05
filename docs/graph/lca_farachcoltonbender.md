@@ -614,4 +614,4 @@ func (l *LCA) lca(v, u int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Lowest Common Ancestor (LCA) Problem | Eulerian path method — WilliamFiset](https://www.youtube.com/watch?v=sD1IoalFomA) (17 хв, англійською)
+<YouTubeEmbed id="sD1IoalFomA" title="Lowest Common Ancestor (LCA) Problem | Eulerian path method — WilliamFiset" />

@@ -585,4 +585,4 @@ func MillerRabinDeterministic(n uint64) bool {
 
 ## Відеоматеріали \{#video}
 
-- [Testing for Primality (Miller-Rabin Test) — Neso Academy](https://www.youtube.com/watch?v=8i0UnX7Snkc) (10 хв, англійською)
+<YouTubeEmbed id="8i0UnX7Snkc" title="Testing for Primality (Miller-Rabin Test) — Neso Academy" />

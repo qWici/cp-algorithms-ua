@@ -154,4 +154,4 @@ func determinant(a [][]float64) float64 {
 
 ## Відеоматеріали \{#video}
 
-- [Find Determinants with Row Reduction | Linear Algebra — Wrath of Math](https://www.youtube.com/watch?v=Q8BCPYYw4qk) (7 хв, англійською)
+<YouTubeEmbed id="Q8BCPYYw4qk" title="Find Determinants with Row Reduction | Linear Algebra — Wrath of Math" />

@@ -60,4 +60,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [How Many Graphs on n Vertices? — Wrath of Math](https://www.youtube.com/watch?v=JDNRIDv6yTE) (5 хв, англійською)
+<YouTubeEmbed id="JDNRIDv6yTE" title="How Many Graphs on n Vertices? — Wrath of Math" />

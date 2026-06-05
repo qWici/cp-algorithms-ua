@@ -236,4 +236,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Binary Search Algorithm - Computerphile — Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk) (19 хв, англійською)
+<YouTubeEmbed id="hDn8iOc30Tk" title="Binary Search Algorithm - Computerphile — Computerphile" />

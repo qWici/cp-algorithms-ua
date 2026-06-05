@@ -77,4 +77,4 @@ func area(fig [][2]float64) float64 {
 
 ## Відеоматеріали \{#video}
 
-- [Area of polygon — mycodeschool](https://www.youtube.com/watch?v=WAyPIMme3Yw) (14 хв, англійською)
+<YouTubeEmbed id="WAyPIMme3Yw" title="Area of polygon — mycodeschool" />

@@ -567,4 +567,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Sliding Window Maximum - Monotonic Queue - Leetcode 239 — NeetCode](https://www.youtube.com/watch?v=DfljaUwZsOk) (16 хв, англійською)
+<YouTubeEmbed id="DfljaUwZsOk" title="Sliding Window Maximum - Monotonic Queue - Leetcode 239 — NeetCode" />

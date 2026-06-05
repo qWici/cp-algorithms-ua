@@ -456,4 +456,4 @@ func min64(a, b int64) int64 {
 
 ## Відеоматеріали \{#video}
 
-- [Dinic's Algorithm | Network Flow | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=M6cm8UeeziI) (12 хв, англійською)
+<YouTubeEmbed id="M6cm8UeeziI" title="Dinic's Algorithm | Network Flow | Graph Theory — WilliamFiset" />

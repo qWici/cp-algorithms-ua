@@ -152,4 +152,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Catalan Numbers - Numberphile — Numberphile](https://www.youtube.com/watch?v=fczN0BCx0xs) (13 хв, англійською)
+<YouTubeEmbed id="fczN0BCx0xs" title="Catalan Numbers - Numberphile — Numberphile" />

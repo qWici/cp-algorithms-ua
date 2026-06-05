@@ -188,4 +188,4 @@ func orderStatistics(arr []int, k int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Kth Largest Element in an Array - Quick Select — NeetCode](https://www.youtube.com/watch?v=XEmy13g1Qxc) (19 хв, англійською)
+<YouTubeEmbed id="XEmy13g1Qxc" title="Kth Largest Element in an Array - Quick Select — NeetCode" />

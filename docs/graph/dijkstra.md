@@ -377,4 +377,4 @@ func restorePath(s, t int, p []int) []int {
 
 ## Відеоматеріали \{#video}
 
-- [Dijkstra's Algorithm - Computerphile — Computerphile](https://www.youtube.com/watch?v=GazC3A4OQTE) (11 хв, англійською)
+<YouTubeEmbed id="GazC3A4OQTE" title="Dijkstra's Algorithm - Computerphile — Computerphile" />

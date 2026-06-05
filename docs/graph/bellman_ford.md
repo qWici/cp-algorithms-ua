@@ -792,4 +792,4 @@ func spfa(adj [][][2]int, s int) (bool, []int) {
 
 ## Відеоматеріали \{#video}
 
-- [Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=lyw4FaxrwHg) (15 хв, англійською)
+<YouTubeEmbed id="lyw4FaxrwHg" title="Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset" />

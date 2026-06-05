@@ -140,4 +140,4 @@ if isBipartite {
 
 ## Відеоматеріали \{#video}
 
-- [How to Tell if Graph is Bipartite (by hand) | Graph Theory — Wrath of Math](https://www.youtube.com/watch?v=bZBmN7I7GNQ) (9 хв, англійською)
+<YouTubeEmbed id="bZBmN7I7GNQ" title="How to Tell if Graph is Bipartite (by hand) | Graph Theory — Wrath of Math" />

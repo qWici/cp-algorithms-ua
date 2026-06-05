@@ -181,4 +181,4 @@ func topologicalSort() {
 
 ## Відеоматеріали \{#video}
 
-- [Topological Sort Algorithm | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=eL-KzMXSXXI) (14 хв, англійською)
+<YouTubeEmbed id="eL-KzMXSXXI" title="Topological Sort Algorithm | Graph Theory — WilliamFiset" />

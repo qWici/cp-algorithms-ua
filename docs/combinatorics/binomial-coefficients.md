@@ -445,4 +445,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [How To Evaluate Binomial Coefficients — The Organic Chemistry Tutor](https://www.youtube.com/watch?v=EKN51vLKves) (9 хв, англійською)
+<YouTubeEmbed id="EKN51vLKves" title="How To Evaluate Binomial Coefficients — The Organic Chemistry Tutor" />

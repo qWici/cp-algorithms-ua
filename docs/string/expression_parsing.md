@@ -805,4 +805,4 @@ func evaluate(s string) int {
 
 ## Відеоматеріали \{#video}
 
-- [Comp Sci in 5: Shunting Yard Algorithm — Comp Sci in 5](https://www.youtube.com/watch?v=Wz85Hiwi5MY) (6 хв, англійською)
+<YouTubeEmbed id="Wz85Hiwi5MY" title="Comp Sci in 5: Shunting Yard Algorithm — Comp Sci in 5" />

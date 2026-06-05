@@ -516,4 +516,4 @@ func solve(a []Seg) (int, int) {
 
 ## Відеоматеріали \{#video}
 
-- [Sweep-Line Algorithm for Line Segment Intersection (2/5) — Philipp Kindermann](https://www.youtube.com/watch?v=qkhUNzCGDt0) (9 хв, англійською)
+<YouTubeEmbed id="qkhUNzCGDt0" title="Sweep-Line Algorithm for Line Segment Intersection (2/5) — Philipp Kindermann" />

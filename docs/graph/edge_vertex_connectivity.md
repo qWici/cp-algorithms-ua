@@ -90,4 +90,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Vertex Connectivity of a Graph | Graph Theory — Wrath of Math](https://www.youtube.com/watch?v=rK0zHB1WnQE) (9 хв, англійською)
+<YouTubeEmbed id="rK0zHB1WnQE" title="Vertex Connectivity of a Graph | Graph Theory — Wrath of Math" />

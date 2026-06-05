@@ -439,4 +439,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Euler’s Totient Function (Phi Function) — Neso Academy](https://www.youtube.com/watch?v=DwQ7-k9LkJ4) (9 хв, англійською)
+<YouTubeEmbed id="DwQ7-k9LkJ4" title="Euler’s Totient Function (Phi Function) — Neso Academy" />

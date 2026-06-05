@@ -1098,4 +1098,4 @@ func build() {
 
 ## Відеоматеріали \{#video}
 
-- [Suffix Tree using Ukkonen's algorithm — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=aPRqocoBsFQ) (76 хв, англійською)
+<YouTubeEmbed id="aPRqocoBsFQ" title="Suffix Tree using Ukkonen's algorithm — Tushar Roy - Coding Made Simple" />

@@ -634,4 +634,4 @@ func segmentedSieveNoPreGen(L, R int64) []bool {
 
 ## Відеоматеріали \{#video}
 
-- [Finding Prime numbers - Sieve of Eratosthenes — mycodeschool](https://www.youtube.com/watch?v=eKp56OLhoQs) (10 хв, англійською)
+<YouTubeEmbed id="eKp56OLhoQs" title="Finding Prime numbers - Sieve of Eratosthenes — mycodeschool" />

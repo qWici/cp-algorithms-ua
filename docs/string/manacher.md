@@ -368,4 +368,4 @@ func manacher(s string) []int {
 
 ## Відеоматеріали \{#video}
 
-- [Longest Palindromic Substring Manacher's Algorithm — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=V-sEwsca1ak) (17 хв, англійською)
+<YouTubeEmbed id="V-sEwsca1ak" title="Longest Palindromic Substring Manacher's Algorithm — Tushar Roy - Coding Made Simple" />

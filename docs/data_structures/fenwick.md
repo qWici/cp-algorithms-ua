@@ -1030,4 +1030,4 @@ def range_sum(l, r):
 
 ## Відеоматеріали \{#video}
 
-- [Fenwick Tree or Binary Indexed Tree — Tushar Roy - Coding Made Simple](https://www.youtube.com/watch?v=CWDQJGaN1gY) (23 хв, англійською)
+<YouTubeEmbed id="CWDQJGaN1gY" title="Fenwick Tree or Binary Indexed Tree — Tushar Roy - Coding Made Simple" />

@@ -400,4 +400,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Binary Exponentiation — Errichto Algorithms](https://www.youtube.com/watch?v=L-Wzglnm4dM) (15 хв, англійською)
+<YouTubeEmbed id="L-Wzglnm4dM" title="Binary Exponentiation — Errichto Algorithms" />

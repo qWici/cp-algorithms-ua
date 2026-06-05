@@ -1302,4 +1302,4 @@ func unionSets(a, b int) {
 
 ## Відеоматеріали \{#video}
 
-- [1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find — Abdul Bari](https://www.youtube.com/watch?v=wU6udHRIkcc) (26 хв, англійською)
+<YouTubeEmbed id="wU6udHRIkcc" title="1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find — Abdul Bari" />

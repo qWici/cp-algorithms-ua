@@ -1576,4 +1576,4 @@ def mod_min(r, n, m):
 
 ## Відеоматеріали \{#video}
 
-- [Infinite Continued Fractions, simple or not? — blackpenredpen](https://www.youtube.com/watch?v=vw4eYXMWYEw) (11 хв, англійською)
+<YouTubeEmbed id="vw4eYXMWYEw" title="Infinite Continued Fractions, simple or not? — blackpenredpen" />

@@ -249,4 +249,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [The Extended Euclidean algorithm — GVSUmath](https://www.youtube.com/watch?v=hB34-GSDT3k) (12 хв, англійською)
+<YouTubeEmbed id="hB34-GSDT3k" title="The Extended Euclidean algorithm — GVSUmath" />

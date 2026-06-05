@@ -223,4 +223,4 @@ func multiplicityFactorial(n, p int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Computations Modulo P in Competitive Programming — Errichto Algorithms](https://www.youtube.com/watch?v=-OPohCQqi_E) (18 хв, англійською)
+<YouTubeEmbed id="-OPohCQqi_E" title="Computations Modulo P in Competitive Programming — Errichto Algorithms" />

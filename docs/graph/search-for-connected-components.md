@@ -302,4 +302,4 @@ func findComps() {
 
 ## Відеоматеріали \{#video}
 
-- [Number of Connected Components in an Undirected Graph - Union Find - Leetcode 323 - Python — NeetCode](https://www.youtube.com/watch?v=8f1XPm4WOUc) (16 хв, англійською)
+<YouTubeEmbed id="8f1XPm4WOUc" title="Number of Connected Components in an Undirected Graph - Union Find - Leetcode 323 - Python — NeetCode" />

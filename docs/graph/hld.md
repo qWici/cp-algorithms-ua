@@ -406,4 +406,4 @@ func query(a, b int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Hybrid Tutorial #-1: Heavy-Light Decomposition — Colin Galen](https://www.youtube.com/watch?v=_G_LMuLWMaI) (40 хв, англійською)
+<YouTubeEmbed id="_G_LMuLWMaI" title="Hybrid Tutorial #-1: Heavy-Light Decomposition — Colin Galen" />

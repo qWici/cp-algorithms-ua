@@ -262,4 +262,4 @@ if d[i][k]+d[k][j] < d[i][j]-EPS {
 
 ## Відеоматеріали \{#video}
 
-- [4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming — Abdul Bari](https://www.youtube.com/watch?v=oNI0rf2P9gE) (14 хв, англійською)
+<YouTubeEmbed id="oNI0rf2P9gE" title="4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming — Abdul Bari" />

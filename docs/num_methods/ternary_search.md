@@ -173,4 +173,4 @@ func ternarySearch(l, r float64) float64 {
 
 ## Відеоматеріали \{#video}
 
-- [Ternary Search with example — Code Wagon](https://www.youtube.com/watch?v=WyWL1PBNvb8) (10 хв, англійською)
+<YouTubeEmbed id="WyWL1PBNvb8" title="Ternary Search with example — Code Wagon" />

@@ -225,4 +225,4 @@ for q.Len() > 0 {
 
 ## Відеоматеріали \{#video}
 
-- [Breadth First Search Algorithm | Shortest Path | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=oDqjPvD54Ss) (7 хв, англійською)
+<YouTubeEmbed id="oDqjPvD54Ss" title="Breadth First Search Algorithm | Shortest Path | Graph Theory — WilliamFiset" />

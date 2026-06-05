@@ -394,4 +394,4 @@ func (m *Mex) Update(idx, newValue int) {
 
 ## Відеоматеріали \{#video}
 
-- [Everything you need to know about MEX operation — peltorator](https://www.youtube.com/watch?v=JDuVLyKn7Yw) (15 хв, англійською)
+<YouTubeEmbed id="JDuVLyKn7Yw" title="Everything you need to know about MEX operation — peltorator" />

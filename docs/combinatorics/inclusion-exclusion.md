@@ -749,4 +749,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [INCLUSION-EXCLUSION PRINCIPLE - DISCRETE MATHEMATICS — TrevTutor](https://www.youtube.com/watch?v=GS7dIWA6Hpo) (18 хв, англійською)
+<YouTubeEmbed id="GS7dIWA6Hpo" title="INCLUSION-EXCLUSION PRINCIPLE - DISCRETE MATHEMATICS — TrevTutor" />

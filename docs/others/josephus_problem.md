@@ -285,4 +285,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [The Josephus Problem — Numberphile](https://www.youtube.com/watch?v=uCsD3ZGzMgE) (14 хв, англійською)
+<YouTubeEmbed id="uCsD3ZGzMgE" title="The Josephus Problem — Numberphile" />

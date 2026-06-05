@@ -832,4 +832,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Advanced Data Structures: Suffix Arrays — Niema Moshiri](https://www.youtube.com/watch?v=IzMxbboPcqQ) (6 хв, англійською)
+<YouTubeEmbed id="IzMxbboPcqQ" title="Advanced Data Structures: Suffix Arrays — Niema Moshiri" />

@@ -90,4 +90,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Stars and Bars (and bagels) - Numberphile — Numberphile](https://www.youtube.com/watch?v=UTCScjoPymA) (16 хв, англійською)
+<YouTubeEmbed id="UTCScjoPymA" title="Stars and Bars (and bagels) - Numberphile — Numberphile" />

@@ -298,4 +298,4 @@ func dfs(v int) {
 
 ## Відеоматеріали \{#video}
 
-- [Depth First Search (DFS) Explained: Algorithm, Examples, and Code — Reducible](https://www.youtube.com/watch?v=PMMc4VsIacU) (21 хв, англійською)
+<YouTubeEmbed id="PMMc4VsIacU" title="Depth First Search (DFS) Explained: Algorithm, Examples, and Code — Reducible" />

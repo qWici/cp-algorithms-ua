@@ -254,4 +254,4 @@ func kruskal() {
 
 ## Відеоматеріали \{#video}
 
-- [Kruskal's Algorithm Visually Explained | Disjoint Sets | Union By Rank | Path Compression — ByteQuest](https://www.youtube.com/watch?v=8HeLu8wuLqo) (9 хв, англійською)
+<YouTubeEmbed id="8HeLu8wuLqo" title="Kruskal's Algorithm Visually Explained | Disjoint Sets | Union By Rank | Path Compression — ByteQuest" />

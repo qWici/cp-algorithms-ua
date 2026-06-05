@@ -1392,4 +1392,4 @@ func output(t *Node, acc *[]int) {
 
 ## Відеоматеріали \{#video}
 
-- [AlgorithmsThread 9: Treaps! — SecondThread](https://www.youtube.com/watch?v=6x0UlIBLRsc) (44 хв, англійською)
+<YouTubeEmbed id="6x0UlIBLRsc" title="AlgorithmsThread 9: Treaps! — SecondThread" />

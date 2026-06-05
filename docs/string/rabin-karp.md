@@ -165,4 +165,4 @@ func rabinKarp(s, t string) []int {
 
 ## Відеоматеріали \{#video}
 
-- [9.2 Rabin-Karp String Matching Algorithm — Abdul Bari](https://www.youtube.com/watch?v=qQ8vS2btsxI) (24 хв, англійською)
+<YouTubeEmbed id="qQ8vS2btsxI" title="9.2 Rabin-Karp String Matching Algorithm — Abdul Bari" />

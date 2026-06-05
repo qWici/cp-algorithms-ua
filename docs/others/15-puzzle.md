@@ -130,4 +130,4 @@ if inv&1 != 0 {
 
 ## Відеоматеріали \{#video}
 
-- [Parity of permutations, impossible puzzles and the magical determinant — Mathologer](https://www.youtube.com/watch?v=rUiulWItECQ) (39 хв, англійською)
+<YouTubeEmbed id="rUiulWItECQ" title="Parity of permutations, impossible puzzles and the magical determinant — Mathologer" />

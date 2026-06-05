@@ -37,4 +37,4 @@
 
 ## Відеоматеріали \{#video}
 
-- [Sparse Table & RMQ (Range Minimum Query) — Errichto Algorithms](https://www.youtube.com/watch?v=0jWeUdxrGm4) (19 хв, англійською)
+<YouTubeEmbed id="0jWeUdxrGm4" title="Sparse Table & RMQ (Range Minimum Query) — Errichto Algorithms" />

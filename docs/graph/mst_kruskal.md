@@ -243,4 +243,4 @@ for _, e := range edges {
 
 ## Відеоматеріали \{#video}
 
-- [Union Find Kruskal's Algorithm — WilliamFiset](https://www.youtube.com/watch?v=JZBQLXgSGfs) (6 хв, англійською)
+<YouTubeEmbed id="JZBQLXgSGfs" title="Union Find Kruskal's Algorithm — WilliamFiset" />

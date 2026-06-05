@@ -1000,4 +1000,4 @@ func delaunay(input []Pt) [][3]Pt {
 
 ## Відеоматеріали \{#video}
 
-- [Delaunay Triangulation (1/5) | Computational Geometry - Lecture 08 — Philipp Kindermann](https://www.youtube.com/watch?v=6UsdvbiJx54) (6 хв, англійською)
+<YouTubeEmbed id="6UsdvbiJx54" title="Delaunay Triangulation (1/5) | Computational Geometry - Lecture 08 — Philipp Kindermann" />

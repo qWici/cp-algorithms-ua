@@ -530,4 +530,4 @@ cost := -v[0]
 
 ## Відеоматеріали \{#video}
 
-- [How to Solve an Assignment Problem Using the Hungarian Method — Shokoufeh Mirzaei](https://www.youtube.com/watch?v=ezSx8OyBZVc) (12 хв, англійською)
+<YouTubeEmbed id="ezSx8OyBZVc" title="How to Solve an Assignment Problem Using the Hungarian Method — Shokoufeh Mirzaei" />

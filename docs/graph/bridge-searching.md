@@ -287,4 +287,4 @@ func (bf *BridgeFinder) FindBridges() [][2]int {
 
 ## Відеоматеріали \{#video}
 
-- [G-55. Bridges in Graph - Using Tarjan's Algorithm — take U forward](https://www.youtube.com/watch?v=qrAub5z8FeA) (23 хв, англійською)
+<YouTubeEmbed id="qrAub5z8FeA" title="G-55. Bridges in Graph - Using Tarjan's Algorithm — take U forward" />

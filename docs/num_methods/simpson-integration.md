@@ -125,4 +125,4 @@ func simpsonIntegration(a, b float64) float64 {
 
 ## Відеоматеріали \{#video}
 
-- [Explanation of Simpson's rule | MIT 18.01SC Single Variable Calculus — MIT OpenCourseWare](https://www.youtube.com/watch?v=uc4xJsi99bk) (15 хв, англійською)
+<YouTubeEmbed id="uc4xJsi99bk" title="Explanation of Simpson's rule | MIT 18.01SC Single Variable Calculus — MIT OpenCourseWare" />

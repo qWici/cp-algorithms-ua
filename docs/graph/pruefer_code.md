@@ -804,4 +804,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Graph Theory: 40. Cayley's Formula and Prufer Seqences part 1/2 — Sarada Herke](https://www.youtube.com/watch?v=Ve447EOW8ww) (14 хв, англійською)
+<YouTubeEmbed id="Ve447EOW8ww" title="Graph Theory: 40. Cayley's Formula and Prufer Seqences part 1/2 — Sarada Herke" />

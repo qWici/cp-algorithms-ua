@@ -321,4 +321,4 @@ for i := 0; i < n; i++ {
 
 ## Відеоматеріали \{#video}
 
-- [Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset](https://www.youtube.com/watch?v=lyw4FaxrwHg) (15 хв, англійською)
+<YouTubeEmbed id="lyw4FaxrwHg" title="Bellman Ford Algorithm | Shortest path & Negative cycles | Graph Theory — WilliamFiset" />

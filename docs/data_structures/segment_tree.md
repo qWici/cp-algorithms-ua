@@ -2984,4 +2984,4 @@ func (v *Vertex) getSum(lq, rq int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Segment Tree (Implementation) — Errichto Hard Algorithms](https://www.youtube.com/watch?v=2FShdqn-Oz8) (79 хв, англійською)
+<YouTubeEmbed id="2FShdqn-Oz8" title="Segment Tree (Implementation) — Errichto Hard Algorithms" />

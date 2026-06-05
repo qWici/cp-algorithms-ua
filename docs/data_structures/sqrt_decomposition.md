@@ -591,4 +591,4 @@ func cmp(p, q [2]int) bool {
 
 ## Відеоматеріали \{#video}
 
-- [Square Root Decomposition, Mo's Algorithm — Errichto Hard Algorithms](https://www.youtube.com/watch?v=BJhzd_VG61k) (90 хв, англійською)
+<YouTubeEmbed id="BJhzd_VG61k" title="Square Root Decomposition, Mo's Algorithm — Errichto Hard Algorithms" />

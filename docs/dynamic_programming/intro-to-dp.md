@@ -458,4 +458,4 @@ func f(n int) int {
 
 ## Відеоматеріали \{#video}
 
-- [5 Simple Steps for Solving Dynamic Programming Problems — Reducible](https://www.youtube.com/watch?v=aPQY__2H3tE) (21 хв, англійською)
+<YouTubeEmbed id="aPQY__2H3tE" title="5 Simple Steps for Solving Dynamic Programming Problems — Reducible" />

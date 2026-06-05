@@ -382,4 +382,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Fractions and the Stern-Brocot tree — Insights into Mathematics](https://www.youtube.com/watch?v=CiO8iAYC6xI) (36 хв, англійською)
+<YouTubeEmbed id="CiO8iAYC6xI" title="Fractions and the Stern-Brocot tree — Insights into Mathematics" />

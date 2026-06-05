@@ -236,4 +236,4 @@ func finishTimes(jobs []Job) (int, int) {
 
 ## Відеоматеріали \{#video}
 
-- [Johnson's Rule: Sequencing N Jobs on Two Machines — Cary Countryman](https://www.youtube.com/watch?v=XNcTRdtK5_A) (11 хв, англійською)
+<YouTubeEmbed id="XNcTRdtK5_A" title="Johnson's Rule: Sequencing N Jobs on Two Machines — Cary Countryman" />

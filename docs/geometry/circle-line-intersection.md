@@ -146,4 +146,4 @@ if c*c > r*r*(a*a+b*b)+EPS {
 
 ## Відеоматеріали \{#video}
 
-- [Intersection Between Line and Circle | 2D Segment Collision Algorithm — Ghost Telepathy](https://www.youtube.com/watch?v=_3dRFu3k8Nw) (30 хв, англійською)
+<YouTubeEmbed id="_3dRFu3k8Nw" title="Intersection Between Line and Circle | 2D Segment Collision Algorithm — Ghost Telepathy" />

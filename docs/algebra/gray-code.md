@@ -125,4 +125,4 @@ func revG(g int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Introduction to Gray Code — Neso Academy](https://www.youtube.com/watch?v=0dPN4gh0CKI) (6 хв, англійською)
+<YouTubeEmbed id="0dPN4gh0CKI" title="Introduction to Gray Code — Neso Academy" />

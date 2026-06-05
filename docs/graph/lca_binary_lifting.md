@@ -287,4 +287,4 @@ func preprocess(root int) {
 
 ## Відеоматеріали \{#video}
 
-- [Binary Lifting (Kth Ancestor of a Tree Node) — Errichto Algorithms](https://www.youtube.com/watch?v=oib-XsjFa-M) (18 хв, англійською)
+<YouTubeEmbed id="oib-XsjFa-M" title="Binary Lifting (Kth Ancestor of a Tree Node) — Errichto Algorithms" />

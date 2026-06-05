@@ -307,4 +307,4 @@ if (!used[u]) {
 
 ## Відеоматеріали \{#video}
 
-- [Breadth First Search (BFS): Visualized and Explained — Reducible](https://www.youtube.com/watch?v=xlVX7dXLS64) (11 хв, англійською)
+<YouTubeEmbed id="xlVX7dXLS64" title="Breadth First Search (BFS): Visualized and Explained — Reducible" />

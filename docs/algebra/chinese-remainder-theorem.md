@@ -337,4 +337,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Chinese Remainder Theorem, 2-minute Method — Errichto Algorithms](https://www.youtube.com/watch?v=EHDEvFuYPRQ) (9 хв, англійською)
+<YouTubeEmbed id="EHDEvFuYPRQ" title="Chinese Remainder Theorem, 2-minute Method — Errichto Algorithms" />

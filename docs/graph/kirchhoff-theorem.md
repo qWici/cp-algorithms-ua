@@ -38,4 +38,4 @@ $T^j$ — це матриця з викресленими рядком і сто
 
 ## Відеоматеріали \{#video}
 
-- [Kirchhoff's Theorem for Calculating number of Spanning trees Of a Graph — GeeksforGeeks](https://www.youtube.com/watch?v=NcOYysnlx-0) (6 хв, англійською)
+<YouTubeEmbed id="NcOYysnlx-0" title="Kirchhoff's Theorem for Calculating number of Spanning trees Of a Graph — GeeksforGeeks" />

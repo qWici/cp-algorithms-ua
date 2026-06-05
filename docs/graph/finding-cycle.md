@@ -467,4 +467,4 @@ func findCycle() {
 
 ## Відеоматеріали \{#video}
 
-- [Detect Cycle in Directed Graph Algorithm — Tushar Roy](https://www.youtube.com/watch?v=rKQaZuoUR4M) (11 хв, англійською)
+<YouTubeEmbed id="rKQaZuoUR4M" title="Detect Cycle in Directed Graph Algorithm — Tushar Roy" />

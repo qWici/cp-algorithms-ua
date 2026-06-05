@@ -378,4 +378,4 @@ func assignment(a [][]int) []int {
 
 ## Відеоматеріали \{#video}
 
-- [CSE 550: 3.6 The Minimum-Cost-Flow Problem — Joshua J. Daymude](https://www.youtube.com/watch?v=0tjpC0MCwY8) (14 хв, англійською)
+<YouTubeEmbed id="0tjpC0MCwY8" title="CSE 550: 3.6 The Minimum-Cost-Flow Problem — Joshua J. Daymude" />

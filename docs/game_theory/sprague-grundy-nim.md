@@ -226,4 +226,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Grundy Numbers - Combinatorial Game Theory I — Gaurav Sen](https://www.youtube.com/watch?v=MboYbpE76js) (11 хв, англійською)
+<YouTubeEmbed id="MboYbpE76js" title="Grundy Numbers - Combinatorial Game Theory I — Gaurav Sen" />

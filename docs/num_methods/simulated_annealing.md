@@ -521,4 +521,4 @@ func P(E, ENext, T float64) bool {
 
 ## Відеоматеріали \{#video}
 
-- [The simulated annealing algorithm explained with an analogy to a toy — Badri Adhikari](https://www.youtube.com/watch?v=eBmU1ONJ-os) (11 хв, англійською)
+<YouTubeEmbed id="eBmU1ONJ-os" title="The simulated annealing algorithm explained with an analogy to a toy — Badri Adhikari" />

@@ -1092,4 +1092,4 @@ func brent(n *big.Int, x0, c int64) *big.Int {
 
 ## Відеоматеріали \{#video}
 
-- [How To Quickly Factor a Number: Pollard's Rho Algorithm — William Y. Feng](https://www.youtube.com/watch?v=7lhlJTtCsiw) (7 хв, англійською)
+<YouTubeEmbed id="7lhlJTtCsiw" title="How To Quickly Factor a Number: Pollard's Rho Algorithm — William Y. Feng" />

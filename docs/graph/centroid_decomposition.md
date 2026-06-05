@@ -537,4 +537,4 @@ func decompose(v, p int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Hybrid Tutorial #-2: Centroid Decomposition — Colin Galen](https://www.youtube.com/watch?v=-DmMLQCmz94) (64 хв, англійською)
+<YouTubeEmbed id="-DmMLQCmz94" title="Hybrid Tutorial #-2: Centroid Decomposition — Colin Galen" />

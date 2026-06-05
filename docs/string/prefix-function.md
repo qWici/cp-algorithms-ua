@@ -698,4 +698,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [9.1 Knuth-Morris-Pratt KMP String Matching Algorithm — Abdul Bari](https://www.youtube.com/watch?v=V5-7GzOfADQ) (19 хв, англійською)
+<YouTubeEmbed id="V5-7GzOfADQ" title="9.1 Knuth-Morris-Pratt KMP String Matching Algorithm — Abdul Bari" />

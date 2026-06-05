@@ -347,4 +347,4 @@ func invs(a []int64, m int64) []int64 {
 
 ## Відеоматеріали \{#video}
 
-- [Multiplicative Inverse — Neso Academy](https://www.youtube.com/watch?v=YwaQ4m1eHQo) (10 хв, англійською)
+<YouTubeEmbed id="YwaQ4m1eHQo" title="Multiplicative Inverse — Neso Academy" />

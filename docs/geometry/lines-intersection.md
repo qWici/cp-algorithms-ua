@@ -209,4 +209,4 @@ func equivalent(m, n Line) bool {
 
 ## Відеоматеріали \{#video}
 
-- [Coding Math: Episode 32 - Line Intersections Part I — Coding Math](https://www.youtube.com/watch?v=4bIsntTiKfM) (15 хв, англійською)
+<YouTubeEmbed id="4bIsntTiKfM" title="Coding Math: Episode 32 - Line Intersections Part I — Coding Math" />

@@ -605,4 +605,4 @@ func solve(a, b, m int) int {
 
 ## Відеоматеріали \{#video}
 
-- [Solving the DLP: Baby Step/Giant Step Algorithm — The Random Professor](https://www.youtube.com/watch?v=007MVsELvQw) (5 хв, англійською)
+<YouTubeEmbed id="007MVsELvQw" title="Solving the DLP: Baby Step/Giant Step Algorithm — The Random Professor" />

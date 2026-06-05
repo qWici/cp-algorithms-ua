@@ -598,4 +598,4 @@ func convexHull(a *[]pt, includeCollinear bool) {
 
 ## Відеоматеріали \{#video}
 
-- [Convex Hull Algorithm - Graham Scan and Jarvis March tutorial — Stable Sort](https://www.youtube.com/watch?v=B2AJoQSZf4M) (7 хв, англійською)
+<YouTubeEmbed id="B2AJoQSZf4M" title="Convex Hull Algorithm - Graham Scan and Jarvis March tutorial — Stable Sort" />

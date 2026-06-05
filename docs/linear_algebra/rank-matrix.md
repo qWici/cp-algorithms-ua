@@ -169,4 +169,4 @@ func computeRank(input [][]float64) int {
 
 ## Відеоматеріали \{#video}
 
-- [The rank of a matrix — Prime Newtons](https://www.youtube.com/watch?v=Sc7OY62lQ9U) (17 хв, англійською)
+<YouTubeEmbed id="Sc7OY62lQ9U" title="The rank of a matrix — Prime Newtons" />

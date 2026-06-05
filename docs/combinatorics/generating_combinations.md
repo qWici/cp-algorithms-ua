@@ -368,4 +368,4 @@ func allCombinations(n, k int) {
 
 ## Відеоматеріали \{#video}
 
-- [Combinations - Leetcode 77 - Python — NeetCode](https://www.youtube.com/watch?v=q0s6m7AiM7o) (10 хв, англійською)
+<YouTubeEmbed id="q0s6m7AiM7o" title="Combinations - Leetcode 77 - Python — NeetCode" />

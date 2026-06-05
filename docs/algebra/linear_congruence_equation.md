@@ -61,4 +61,4 @@ $$
 
 ## Відеоматеріали \{#video}
 
-- [Solving Linear Congruences, Modular Arithmetic — Andrew Borne](https://www.youtube.com/watch?v=ViqgSWoSxN8) (12 хв, англійською)
+<YouTubeEmbed id="ViqgSWoSxN8" title="Solving Linear Congruences, Modular Arithmetic — Andrew Borne" />
