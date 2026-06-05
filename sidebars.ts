@@ -1,9 +1,10 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
-// ЗГЕНЕРОВАНО scripts/convert.mjs із docs-src/navigation.md — не редагувати вручну.
+// Початково згенеровано з navigation.md оригіналу; тепер редагується вручну.
 const sidebars: SidebarsConfig = {
   docsSidebar: [
     'index',
+    'popular-algorithms',
     {
       type: 'category',
       label: "Алгебра",

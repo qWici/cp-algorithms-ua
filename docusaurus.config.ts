@@ -15,7 +15,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://cp-algorithms.com.ua',
+  url: 'https://www.cp-algorithms.org.ua',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
