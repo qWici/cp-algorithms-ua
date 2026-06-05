@@ -7,6 +7,12 @@
 
 Алгоритм запропонували Альфред Ахо і Маргарет Корасік у 1975 році.
 
+:::tip[Коли підходить цей алгоритм?]
+- Шукаєте в тексті одразу **багато** взірців (словник) за один прохід? *(якщо взірець лише один → [КМП](prefix-function.md) або [Z-функція](z-function.md))*
+- Множина взірців відома **заздалегідь** і її варто передобчислити у бор із суфіксними посиланнями?
+- Потрібні саме точні входження взірців, а не запити про довільні підрядки тексту? *(якщо потрібні підрядкові запити до одного рядка → [Суфіксний автомат](suffix-automaton.md))*
+:::
+
 ## Побудова бора \{#construction-of-the-trie}
 
 <center> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Trie.svg" width="400px" /> <br/> <i>Бор, побудований за словами "Java", "Rad", "Rand", "Rau", "Raum" і "Rose".</i> <br/> <i><a href="https://commons.wikimedia.org/wiki/File:Trie.svg">Зображення</a> від [nd](https://de.wikipedia.org/wiki/Benutzer:Nd) розповсюджується за ліцензією <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>.</i> </center>
