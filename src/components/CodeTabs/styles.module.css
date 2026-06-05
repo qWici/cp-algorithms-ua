@@ -1,0 +1,15 @@
+.codeTabs {
+  margin-bottom: var(--ifm-leading);
+}
+
+/* всередині табів у блока коду вже є свій відступ — прибираємо подвійний */
+.codeTabs :global(.margin-top--md) {
+  margin-top: 0.5rem !important;
+}
+
+.hint {
+  display: block;
+  margin-top: -0.5rem;
+  color: var(--ifm-color-emphasis-600);
+  font-style: italic;
+}

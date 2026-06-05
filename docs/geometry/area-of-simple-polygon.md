@@ -1,0 +1,76 @@
+# Обчислення площі простого многокутника за $O(N)$
+
+Нехай задано простий многокутник (тобто без самоперетинів, не обов'язково опуклий). Потрібно обчислити його площу за заданими вершинами.
+
+## Метод 1 \{#method-1}
+
+Це легко зробити, якщо пройтися по всіх ребрах і додати площі трапецій, обмежених кожним ребром та віссю $x$. Площу слід брати зі знаком, щоб зайва площа скорочувалася. Отже, формула така:
+
+$$
+A = \sum_{(p,q)\in \text{edges}} \frac{(p_x - q_x) \cdot (p_y + q_y)}{2}
+$$
+
+Код:
+
+<CodeTabs>
+
+```cpp
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+```
+
+```python
+def area(fig: list[tuple[float, float]]) -> float:
+    res = 0.0
+    for i in range(len(fig)):
+        # попередня вершина (для i == 0 беремо останню)
+        p = fig[i - 1] if i else fig[-1]
+        q = fig[i]
+        res += (p[0] - q[0]) * (p[1] + q[1])
+    return abs(res) / 2
+```
+
+```typescript
+function area(fig: [number, number][]): number {
+    let res = 0;
+    for (let i = 0; i < fig.length; i++) {
+        // попередня вершина (для i === 0 беремо останню)
+        const p = i ? fig[i - 1] : fig[fig.length - 1];
+        const q = fig[i];
+        res += (p[0] - q[0]) * (p[1] + q[1]);
+    }
+    return Math.abs(res) / 2;
+}
+```
+
+```go
+func area(fig [][2]float64) float64 {
+    res := 0.0
+    for i := 0; i < len(fig); i++ {
+        // попередня вершина (для i == 0 беремо останню)
+        var p [2]float64
+        if i > 0 {
+            p = fig[i-1]
+        } else {
+            p = fig[len(fig)-1]
+        }
+        q := fig[i]
+        res += (p[0] - q[0]) * (p[1] + q[1])
+    }
+    return math.Abs(res) / 2
+}
+```
+
+</CodeTabs>
+
+## Метод 2 \{#method-2}
+Ми можемо обрати довільну точку $O$ та пройтися по всіх ребрах, додаючи орієнтовану площу трикутника, утвореного ребром і точкою $O$. Знову ж таки, завдяки знаку площі зайва площа скорочуватиметься.
+
+Цей метод кращий, бо його можна узагальнити на складніші випадки (наприклад, коли деякі сторони є дугами, а не прямими лініями)

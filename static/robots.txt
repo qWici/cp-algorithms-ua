@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cp-algorithms.com.ua/sitemap.xml

@@ -1,0 +1,216 @@
+# Алгоритм Гарнера
+
+Наслідком [китайської теореми про остачі](chinese-remainder-theorem.md) є те, що ми можемо представляти великі числа за допомогою масиву невеликих цілих чисел.
+Наприклад, нехай $p$ — добуток перших $1000$ простих чисел. Тоді $p$ має близько $3000$ цифр.
+
+Будь-яке число $a$, менше за $p$, можна представити як масив $a_1, \ldots, a_k$, де $a_i \equiv a \pmod{p_i}$.
+Але щоб це зробити, нам, очевидно, потрібно вміти відновлювати число $a$ з його представлення.
+Один зі способів розглянуто у статті про китайську теорему про остачі.
+
+У цій статті ми розглянемо альтернативу — алгоритм Гарнера, який також можна використати для цієї мети.
+
+## Представлення в мішаній системі числення \{#mixed-radix-representation}
+
+Ми можемо представити число $a$ у представленні в **мішаній** системі числення:
+
+$$
+a = x_1 + x_2 p_1 + x_3 p_1 p_2 + \ldots + x_k p_1 \cdots p_{k-1} \text{ з }x_i \in [0, p_i)
+$$
+
+Представлення в мішаній системі числення — це позиційна система числення, яка є узагальненням типових систем числення, як-от двійкова чи десяткова.
+Наприклад, десяткова система числення — це позиційна система числення з основою (radix) 10.
+Кожне число представляється рядком цифр $d_1 d_2 d_3 \dots d_n$ від $0$ до $9$. Наприклад, рядок $415$ представляє число $4 \cdot 10^2 + 1 \cdot 10^1 + 5 \cdot 10^0$.
+У загальному випадку рядок цифр $d_1 d_2 d_3 \dots d_n$ представляє число $d_1 b^{n-1} + d_2 b^{n-2} + \cdots + d_n b^0$ у позиційній системі числення з основою $b$.
+
+У мішаній системі числення ми більше не маємо однієї основи. Основа змінюється від позиції до позиції.
+
+## Алгоритм Гарнера \{#garners-algorithm-1}
+
+Алгоритм Гарнера обчислює цифри $x_1, \ldots, x_k$.
+Зауважимо, що ці цифри відносно невеликі.
+Цифра $x_i$ — це ціле число між $0$ та $p_i - 1$.
+
+Нехай $r_{ij}$ позначає обернений елемент до $p_i$ за модулем $p_j$
+
+$$
+r_{ij} = (p_i)^{-1} \pmod{p_j}
+$$
+
+який можна знайти за допомогою алгоритму, описаного у статті [Обернений елемент за модулем](module-inverse.md).
+
+Підставивши $a$ з представлення в мішаній системі числення у перше конгруентне рівняння, отримуємо
+
+$$
+a_1 \equiv x_1 \pmod{p_1}.
+$$
+
+Підстановка у друге рівняння дає
+
+$$
+a_2 \equiv x_1 + x_2 p_1 \pmod{p_2},
+$$
+
+що можна переписати, віднявши $x_1$ та поділивши на $p_1$, у вигляді
+
+$$
+\begin{array}{rclr}
+    a_2 - x_1 &\equiv& x_2 p_1 &\pmod{p_2} \\
+    (a_2 - x_1) r_{12} &\equiv& x_2 &\pmod{p_2} \\
+    x_2 &\equiv& (a_2 - x_1) r_{12} &\pmod{p_2}
+\end{array}
+$$
+
+Аналогічно отримуємо, що
+
+$$
+x_3 \equiv ((a_3 - x_1) r_{13} - x_2) r_{23} \pmod{p_3}.
+$$
+
+Тепер ми чітко бачимо закономірність, яка з'являється, і яку можна виразити таким кодом:
+
+<CodeTabs>
+
+```cpp
+for (int i = 0; i < k; ++i) {
+    x[i] = a[i];
+    for (int j = 0; j < i; ++j) {
+        x[i] = r[j][i] * (x[i] - x[j]);
+
+        x[i] = x[i] % p[i];
+        if (x[i] < 0)
+            x[i] += p[i];
+    }
+}
+```
+
+```python
+for i in range(k):
+    x[i] = a[i]
+    for j in range(i):
+        x[i] = r[j][i] * (x[i] - x[j])
+        # У Python % завжди повертає невід'ємну остачу,
+        # тому окрема корекція знаку не потрібна
+        x[i] %= p[i]
+```
+
+```typescript
+for (let i = 0; i < k; ++i) {
+  x[i] = a[i];
+  for (let j = 0; j < i; ++j) {
+    // BigInt, бо добуток r[j][i] * (x[i] - x[j]) легко переповнює Number
+    x[i] = r[j][i] * (x[i] - x[j]);
+
+    x[i] = x[i] % p[i];
+    if (x[i] < 0n)
+      x[i] += p[i];
+  }
+}
+```
+
+```go
+for i := 0; i < k; i++ {
+    x[i] = a[i]
+    for j := 0; j < i; j++ {
+        x[i] = r[j][i] * (x[i] - x[j])
+
+        x[i] = x[i] % p[i]
+        if x[i] < 0 {
+            x[i] += p[i]
+        }
+    }
+}
+```
+
+</CodeTabs>
+
+Отже, ми навчилися обчислювати цифри $x_i$ за час $O(k^2)$. Тепер число $a$ можна обчислити за згаданою раніше формулою
+
+$$
+a = x_1 + x_2 \cdot p_1 + x_3 \cdot p_1 \cdot p_2 + \ldots + x_k \cdot p_1 \cdots p_{k-1}
+$$
+
+Варто зазначити, що на практиці нам майже напевно доведеться обчислювати відповідь $a$ за допомогою [довгої арифметики](big-integer.md), але цифри $x_i$ (оскільки вони невеликі) зазвичай можна обчислювати за допомогою вбудованих типів, а тому алгоритм Гарнера дуже ефективний.
+
+## Реалізація алгоритму Гарнера \{#implementation-of-garners-algorithm}
+
+Цей алгоритм зручно реалізувати на Java, оскільки вона має вбудовану підтримку великих чисел через клас `BigInteger`.
+
+Тут ми наводимо реалізацію, яка може зберігати великі числа у вигляді набору конгруентних рівнянь.
+Вона підтримує додавання, віднімання та множення.
+А за допомогою алгоритму Гарнера ми можемо перетворити набір рівнянь на єдине ціле число.
+У цьому коді ми беремо 100 простих чисел, більших за $10^9$, що дозволяє представляти числа аж до $10^{900}$.
+
+```java
+final int SZ = 100;
+int pr[] = new int[SZ];
+int r[][] = new int[SZ][SZ];
+
+void init() {
+    for (int x = 1000 * 1000 * 1000, i = 0; i < SZ; ++x)
+        if (BigInteger.valueOf(x).isProbablePrime(100))
+            pr[i++] = x;
+
+    for (int i = 0; i < SZ; ++i)
+        for (int j = i + 1; j < SZ; ++j)
+            r[i][j] =
+                BigInteger.valueOf(pr[i]).modInverse(BigInteger.valueOf(pr[j])).intValue();
+}
+
+class Number {
+    int a[] = new int[SZ];
+
+    public Number() {
+    }
+
+    public Number(int n) {
+        for (int i = 0; i < SZ; ++i)
+            a[i] = n % pr[i];
+    }
+
+    public Number(BigInteger n) {
+        for (int i = 0; i < SZ; ++i)
+            a[i] = n.mod(BigInteger.valueOf(pr[i])).intValue();
+    }
+
+    public Number add(Number n) {
+        Number result = new Number();
+        for (int i = 0; i < SZ; ++i)
+            result.a[i] = (a[i] + n.a[i]) % pr[i];
+        return result;
+    }
+
+    public Number subtract(Number n) {
+        Number result = new Number();
+        for (int i = 0; i < SZ; ++i)
+            result.a[i] = (a[i] - n.a[i] + pr[i]) % pr[i];
+        return result;
+    }
+
+    public Number multiply(Number n) {
+        Number result = new Number();
+        for (int i = 0; i < SZ; ++i)
+            result.a[i] = (int)((a[i] * 1l * n.a[i]) % pr[i]);
+        return result;
+    }
+
+    public BigInteger bigIntegerValue(boolean can_be_negative) {
+        BigInteger result = BigInteger.ZERO, mult = BigInteger.ONE;
+        int x[] = new int[SZ];
+        for (int i = 0; i < SZ; ++i) {
+            x[i] = a[i];
+            for (int j = 0; j < i; ++j) {
+                long cur = (x[i] - x[j]) * 1l * r[j][i];
+                x[i] = (int)((cur % pr[i] + pr[i]) % pr[i]);
+            }
+            result = result.add(mult.multiply(BigInteger.valueOf(x[i])));
+            mult = mult.multiply(BigInteger.valueOf(pr[i]));
+        }
+
+        if (can_be_negative)
+            if (result.compareTo(mult.shiftRight(1)) >= 0)
+                result = result.subtract(mult);
+
+        return result;
+    }
+}
+```
